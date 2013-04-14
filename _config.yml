@@ -8,5 +8,4 @@ namespaces: {
   s:    'http://schema.org/',
   v:    'http://rdf.data-vocabulary.org/#',
   xsd:  'http://www.w3.org/2001/XMLSchema#' }
-source: src
 title: Dive Into Programming
