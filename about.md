@@ -8,6 +8,7 @@ breadcrumbs:
 primary_topic_id: me
 person: "Reece H. Dunn"
 email: msclrhd@gmail.com
+rdf: ['rdfxml']
 ---
 
 I run this [website](http://www.reecedunn.co.uk){:rel="s:url foaf:homepage"} about Computer programming. It also hosts the web pages of my various [GitHub](https://github.com/rhdunn){:rel="foaf:account"} projects.
