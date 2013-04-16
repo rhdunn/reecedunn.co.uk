@@ -41,7 +41,7 @@ classes:
      'comment':    'A component of an RFC5646 language code or a complete grandfathered/redundant tag.'}
   - {'label':      'Tag',
      'comment':    'A complete RFC5646 language tag.',
-     'subClassOf': '#Subtag'}
+     'subClassOf': ['#Subtag', 'dct:RFC4646', 'dct:RFC5646']}
   - {'label':      'Variant',
      'comment':    'A specific form of the given language, region and script.',
      'subClassOf': '#Subtag'}
