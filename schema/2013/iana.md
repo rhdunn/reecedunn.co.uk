@@ -45,7 +45,26 @@ classes:
   - {'label':    'Variant',
      'comment':  'A specific form of the given language, region and script.',
      'subclass': '#Subtag'}
+properties:
+  - {'label':   'added',
+     'comment': 'The date at which the subtag was added.'}
+  - {'label':   'comments',
+     'comment': 'Notes about the subtag.'}
+  - {'label':   'deprecated',
+     'comment': 'The date at which the subtag was deprecated.'}
+  - {'label':   'label',
+     'comment': 'The name of the subtag.'}
+  - {'label':   'macrolanguage',
+     'comment': 'The associated parent language.'}
+  - {'label':   'prefix',
+     'comment': 'The subtag occurring before this subtag.'}
+  - {'label':   'preferred-value',
+     'comment': 'The value that should be used instead of this subtag.'}
+  - {'label':   'supress-script',
+     'comment': 'The default script for the subtag.'}
 ---
+
+# Overview
 
 The [IANA Language Subtag Registry](http://www.iana.org/assignments/language-subtag-registry)
 defines the language, region, script and variant codes used in
@@ -66,7 +85,8 @@ The RDF class associated with a subtag code is determined by the _Type_ and
 _Scope_ properties as follows:
 
 <table class="data">
-<tr><th>Type</th><th>Scope</th><th>Class</th></tr>
+<col width="33%"/><col width="34%"/><col width="33%"/>
+<tr><th>Type</th><th>Scope</th><th>RDF Class</th></tr>
 <tr><td>extlang</td><td></td><td><a href="#ExtLang">ExtLang</a></td></tr>
 <tr><td>grandfathered</td><td></td><td><a href="#Grandfathered">Grandfathered</a></td></tr>
 <tr><td>language</td><td></td><td><a href="#Language">Language</a></td></tr>
@@ -89,3 +109,18 @@ _Scope_ properties as follows:
 <p>The <em>private</em> type is not an official IANA type. It is used to describe subtags in the <code>-x-</code> part of the language tag reserved for private use. This differs from the range of private use language, region and script codes.</p>
 </li>
 </ol>
+
+The remaining properties are mapped to the following RDF properties:
+
+<table class="data">
+<col width="50%"/><col width="50%"/>
+<tr><th>IANA Property</th><th>RDF Property</th></tr>
+<tr><td>Added</td><td><a href="#added">added</a></td></tr>
+<tr><td>Comments</td><td><a href="#comments">comments</a></td></tr>
+<tr><td>Deprecated</td><td><a href="#deprecated">deprecated</a></td></tr>
+<tr><td>Description</td><td><a href="#label">label</a></td></tr>
+<tr><td>Macrolanguage</td><td><a href="#macrolanguage">macrolanguage</a></td></tr>
+<tr><td>Prefix</td><td><a href="#prefix">prefix</a></td></tr>
+<tr><td>Preferred-Value</td><td><a href="#preferred-value">preferred-value</a></td></tr>
+<tr><td>Supress-Script</td><td><a href="#supress-script">supress-script</a></td></tr>
+</table>
