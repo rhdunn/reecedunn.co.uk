@@ -7,44 +7,44 @@ breadcrumbs:
   - /index.html
 rdf: ['rdfxml']
 classes:
-  - {'label':    'Collection',
-     'comment':  'An 639-5 language family code.',
-     'subclass': '#Language'}
-  - {'label':    'ExtLang',
-     'comment':  'An ISO 639-2 or 639-3 language code that belongs to a macrolanguage.',
-     'subclass': '#Subtag'}
-  - {'label':    'Grandfathered',
-     'comment':  'A deprecated RFC5646 language tag that does not conform to the RFC5646 syntax.',
-     'subclass': '#Tag'}
-  - {'label':    'Language',
-     'comment':  'An ISO 639-2, 639-3 or 639-5 language code.',
-     'subclass': '#Subtag'}
-  - {'label':    'MacroLanguage',
-     'comment':  'An ISO 639-2 or 639-3 language code representing a group of languages.',
-     'subclass': '#Language'}
-  - {'label':    'Private',
-     'comment':  'A user-defined private subtag.',
-     'subclass': '#Subtag'}
-  - {'label':    'Redundant',
-     'comment':  'A deprecated RFC5646 language tag that conforms to the RFC5646 syntax.',
-     'subclass': '#Tag'}
-  - {'label':    'Region',
-     'comment':  'An ISO 3166 or UN M.49 geographical region code.',
-     'subclass': '#Subtag'}
-  - {'label':    'Script',
-     'comment':  'An ISO 15924 writing script code.',
-     'subclass': '#Subtag'}
-  - {'label':    'Special',
-     'comment':  'A special purpose language code.',
-     'subclass': '#Language'}
-  - {'label':    'Subtag',
-     'comment':  'A component of an RFC5646 language code or a complete grandfathered/redundant tag.'}
-  - {'label':    'Tag',
-     'comment':  'A complete RFC5646 language tag.',
-     'subclass': '#Subtag'}
-  - {'label':    'Variant',
-     'comment':  'A specific form of the given language, region and script.',
-     'subclass': '#Subtag'}
+  - {'label':      'Collection',
+     'comment':    'An 639-5 language family code.',
+     'subClassOf': '#Language'}
+  - {'label':      'ExtLang',
+     'comment':    'An ISO 639-2 or 639-3 language code that belongs to a macrolanguage.',
+     'subClassOf': '#Subtag'}
+  - {'label':      'Grandfathered',
+     'comment':    'A deprecated RFC5646 language tag that does not conform to the RFC5646 syntax.',
+     'subClassOf': '#Tag'}
+  - {'label':      'Language',
+     'comment':    'An ISO 639-2, 639-3 or 639-5 language code.',
+     'subClassOf': '#Subtag'}
+  - {'label':      'MacroLanguage',
+     'comment':    'An ISO 639-2 or 639-3 language code representing a group of languages.',
+     'subClassOf': '#Language'}
+  - {'label':      'Private',
+     'comment':    'A user-defined private subtag.',
+     'subClassOf': '#Subtag'}
+  - {'label':      'Redundant',
+     'comment':    'A deprecated RFC5646 language tag that conforms to the RFC5646 syntax.',
+     'subClassOf': '#Tag'}
+  - {'label':      'Region',
+     'comment':    'An ISO 3166 or UN M.49 geographical region code.',
+     'subClassOf': '#Subtag'}
+  - {'label':      'Script',
+     'comment':    'An ISO 15924 writing script code.',
+     'subClassOf': '#Subtag'}
+  - {'label':      'Special',
+     'comment':    'A special purpose language code.',
+     'subClassOf': '#Language'}
+  - {'label':      'Subtag',
+     'comment':    'A component of an RFC5646 language code or a complete grandfathered/redundant tag.'}
+  - {'label':      'Tag',
+     'comment':    'A complete RFC5646 language tag.',
+     'subClassOf': '#Subtag'}
+  - {'label':      'Variant',
+     'comment':    'A specific form of the given language, region and script.',
+     'subClassOf': '#Subtag'}
 properties:
   - {'label':   'added',
      'comment': 'The date at which the subtag was added.'}
