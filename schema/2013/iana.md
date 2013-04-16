@@ -15,7 +15,7 @@ classes:
      'subclass': '#Subtag'}
   - {'label':    'Grandfathered',
      'comment':  'A deprecated RFC5646 language tag that does not conform to the RFC5646 syntax.',
-     'subclass': '#Subtag'}
+     'subclass': '#Tag'}
   - {'label':    'Language',
      'comment':  'An ISO 639-2, 639-3 or 639-5 language code.',
      'subclass': '#Subtag'}
@@ -27,7 +27,7 @@ classes:
      'subclass': '#Subtag'}
   - {'label':    'Redundant',
      'comment':  'A deprecated RFC5646 language tag that conforms to the RFC5646 syntax.',
-     'subclass': '#Subtag'}
+     'subclass': '#Tag'}
   - {'label':    'Region',
      'comment':  'A geographical region code.',
      'subclass': '#Subtag'}
@@ -39,6 +39,9 @@ classes:
      'subclass': '#Language'}
   - {'label':    'Subtag',
      'comment':  'A component of an RFC5646 language code or a complete grandfathered/redundant tag.'}
+  - {'label':    'Tag',
+     'comment':  'A complete RFC5646 language tag.',
+     'subclass': '#Subtag'}
   - {'label':    'Variant',
      'comment':  'A specific form of the given language, region and script.',
      'subclass': '#Subtag'}
