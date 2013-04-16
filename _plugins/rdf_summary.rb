@@ -4,11 +4,16 @@ module Jekyll
   module RdfSummaryFilter
 
     PROPERTIES = [
-      {'name' => 'subClassOf'    , 'type' => 'uri' , 'property' => 'rdfs:subClassOf'},
-      {'name' => 'subPropertyOf' , 'type' => 'uri' , 'property' => 'rdfs:subPropertyOf'}
+      {'name' => 'subClassOf'    , 'type' => 'uri' , 'label' => 'Type'   , 'property' => 'rdfs:subClassOf'},
+      {'name' => 'subPropertyOf' , 'type' => 'uri' , 'label' => 'Type'   , 'property' => 'rdfs:subPropertyOf'},
+      {'name' => 'domain'        , 'type' => 'uri' , 'label' => 'Domain' , 'property' => 'rdfs:domain'},
+      {'name' => 'range'         , 'type' => 'uri' , 'label' => 'Range'  , 'property' => 'rdfs:range'}
     ]
 
     def rdf_summary(item, item_type)
+      config = @context.registers[:site].config
+      ns = config['namespaces']
+
       case item_type
       when 'class'
         type = 'rdfs:Class'
@@ -30,7 +35,7 @@ module Jekyll
       ret << "  <h1 property=\"rdfs:label\">#{item['label']}</h1>"
       if ext_info
         ret << "  <table class=\"info\">"
-        ret << "  <col width=\"30%\"/><col width=\"70%\"/>"
+        ret << "  <col width=\"33%\"/><col width=\"67%\"/>"
         PROPERTIES.each do |p|
           if item.has_key?(p['name'])
             case p['type']
@@ -39,9 +44,17 @@ module Jekyll
               if uri.include? '#'
                 name  = uri.split('#')[1]
                 value = "<a rel=\"#{p['property']}\" href=\"#{uri}\">#{name}</a>"
+              else
+                if uri.include? ':' and not uri.include? 'http://'
+                  nsref, name = uri.split(':')
+                  expanded_uri = "#{ns[nsref]}#{name}"
+                  value = "<a rel=\"#{p['property']}\" href=\"#{expanded_uri}\">#{name}</a>"
+                else
+                  value = "<a rel=\"#{p['property']}\" href=\"#{uri}\">#{uri}</a>"
+                end
               end
             end
-            ret << "    <tr><th>#{p['name']}</th><td>#{value}</td></tr>"
+            ret << "    <tr><th>#{p['label']}</th><td>#{value}</td></tr>"
           end
         end
         ret << "  </table>"
