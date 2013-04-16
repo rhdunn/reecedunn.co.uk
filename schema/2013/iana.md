@@ -46,22 +46,42 @@ classes:
      'comment':    'A specific form of the given language, region and script.',
      'subClassOf': '#Subtag'}
 properties:
-  - {'label':   'added',
-     'comment': 'The date at which the subtag was added.'}
-  - {'label':   'comments',
-     'comment': 'Notes about the subtag.'}
-  - {'label':   'deprecated',
-     'comment': 'The date at which the subtag was deprecated.'}
-  - {'label':   'label',
-     'comment': 'The name of the subtag.'}
-  - {'label':   'macrolanguage',
-     'comment': 'The associated parent language.'}
-  - {'label':   'prefix',
-     'comment': 'The subtag occurring before this subtag.'}
-  - {'label':   'preferred-value',
-     'comment': 'The value that should be used instead of this subtag.'}
-  - {'label':   'supress-script',
-     'comment': 'The default script for the subtag.'}
+  - {'label':         'added',
+     'comment':       'The date at which the subtag was added.',
+     'domain':        '#Subtag',
+     'range':         'rdfs:Literal',
+     'subPropertyOf': 'dct:created'}
+  - {'label':         'comments',
+     'comment':       'Notes about the subtag.',
+     'domain':        '#Subtag',
+     'range':         'rdfs:Literal',
+     'subPropertyOf': 'dct:description'}
+  - {'label':         'deprecated',
+     'comment':       'The date at which the subtag was deprecated.',
+     'domain':        '#Subtag',
+     'range':         'rdfs:Literal',
+     'subPropertyOf': 'dct:date'}
+  - {'label':         'label',
+     'comment':       'The name of the subtag.',
+     'domain':        '#Subtag',
+     'range':         'rdfs:Literal'}
+  - {'label':         'macrolanguage',
+     'comment':       'The associated parent language.',
+     'domain':        '#Language',
+     'range':         '#MacroLanguage'}
+  - {'label':         'prefix',
+     'comment':       'The subtag occurring before this subtag.',
+     'domain':        '#Subtag',
+     'range':         '#Subtag'}
+  - {'label':         'preferred-value',
+     'comment':       'The value that should be used instead of this subtag.',
+     'domain':        '#Subtag',
+     'range':         '#Subtag',
+     'subPropertyOf': 'dct:isReplacedBy'}
+  - {'label':         'supress-script',
+     'comment':       'The default script for the subtag.',
+     'domain':        '#Subtag',
+     'range':         '#Script'}
 ---
 
 # Overview
