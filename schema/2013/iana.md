@@ -8,7 +8,7 @@ breadcrumbs:
 rdf: ['rdfxml']
 classes:
   - {'label':      'Collection',
-     'comment':    'An 639-5 language family code.',
+     'comment':    'An ISO 639-5 language family code.',
      'subClassOf': '#Language'}
   - {'label':      'ExtLang',
      'comment':    'An ISO 639-2 or 639-3 language code that belongs to a macrolanguage.',
