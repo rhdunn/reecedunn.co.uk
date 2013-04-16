@@ -29,10 +29,10 @@ classes:
      'comment':  'A deprecated RFC5646 language tag that conforms to the RFC5646 syntax.',
      'subclass': '#Tag'}
   - {'label':    'Region',
-     'comment':  'A geographical region code.',
+     'comment':  'An ISO 3166 or UN M.49 geographical region code.',
      'subclass': '#Subtag'}
   - {'label':    'Script',
-     'comment':  'A writing script code.',
+     'comment':  'An ISO 15924 writing script code.',
      'subclass': '#Subtag'}
   - {'label':    'Special',
      'comment':  'A special purpose language code.',
