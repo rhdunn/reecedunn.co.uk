@@ -5,7 +5,6 @@ keywords: reece, dunn, foaf, rdfa
 title: "About Reece H. Dunn"
 breadcrumbs:
   - /index.html
-primary_topic_id: me
 person: "Reece H. Dunn"
 email: msclrhd@gmail.com
 rdf: ['rdfxml']
