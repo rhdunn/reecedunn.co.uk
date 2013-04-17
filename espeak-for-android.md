@@ -6,7 +6,6 @@ keywords: text to speech, tts, espeak, android
 title: eSpeak for Android
 breadcrumbs:
   - /index.html
-project: espeak-android
 install: "https://play.google.com/store/apps/details?id=com.reecedunn.espeak"
 issues: "https://github.com/rhdunn/espeak/issues"
 license: gpl3+
