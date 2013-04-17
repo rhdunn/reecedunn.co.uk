@@ -121,14 +121,13 @@ _Scope_ properties as follows:
 <tr><td>variant</td><td></td><td><a href="#Variant">Variant</a></td></tr>
 </table>
 
-<ol>
-<li id="note1">
-<p>The <em>private-use</em> scope defines the range of language codes which are reserved for private use and as such do not define a specific language code to associate a class with.</p>
-</li>
-<li id="note2">
-<p>The <em>private</em> type is not an official IANA type. It is used to describe subtags in the <code>-x-</code> part of the language tag reserved for private use. This differs from the range of private use language, region and script codes.</p>
-</li>
-</ol>
+1. {#note1} The _private-use_ scope defines the range of language codes which are
+   reserved for private use and as such do not define a specific language code
+   to associate a class with.
+
+2. {#note2} The _private_ type is not an official IANA type. It is used to describe
+   subtags in the `-x-` part of the language tag reserved for private use. This
+   differs from the range of private use language, region and script codes.
 
 The remaining properties are mapped to the following RDF properties:
 

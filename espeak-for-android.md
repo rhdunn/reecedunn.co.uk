@@ -115,9 +115,7 @@ Pronunciation errors should be reported to the [espeak-general@lists.sourceforge
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="cy" title="Welsh">Cymraeg</li>
 </ol>
 
-<ol style="clear: both;">
-<li id="note1">These are the test voices from eSpeak.</li>
-</ol>
+1. {#note1} These are the test voices from eSpeak.
 
 # English Accents
 
