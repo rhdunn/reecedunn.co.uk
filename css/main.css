@@ -36,6 +36,12 @@ pre > code
 	margin-left: 2em;
 }
 
+p.post-date
+{
+	float: right;
+	margin-top: 1em;
+}
+
 blockquote.about
 {
 	margin-top: -1em;
@@ -173,7 +179,7 @@ table.info
 table.info th,
 table.info td
 {
-	border-bottom: 1px solid #00AAE4; /* spanish sky blue */
+	border-bottom: 1px solid #77B5FE; /* sky blue */
 	padding: 0.5em;
 }
 
