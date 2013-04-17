@@ -24,10 +24,22 @@ a:hover
 	color: blue;
 }
 
+th,
+td
+{
+	vertical-align: top;
+}
+
 pre > code
 {
 	display: block;
 	margin-left: 2em;
+}
+
+blockquote.about
+{
+	margin-top: -1em;
+	font-style: italic;
 }
 
 /* page layout */
@@ -191,4 +203,22 @@ table.info tr:last-child td,
 table.data tr:last-child td
 {
 	border-bottom: none;
+}
+
+/* list styling */
+
+ol.columns3,
+ul.columns3
+{
+	-moz-column-count: 3;
+	-webkit-column-count: 3;
+}
+
+table.info td ul,
+ol.columns3,
+ul.columns3
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
 }
