@@ -1,10 +1,13 @@
 ---
 layout: webpage
+typeof: s:BlogPosting
 primary_topic: doap:Version
 primary_topic_id: release
 ---
 
-<p class="post-date" property="doap:created" content="{{ page.date }}"><em>{{ page.date | date_to_string }}</em></p>
 <h1>{{ page.project }} <span property="doap:revision">{{ page.title }}</span> released</h1>
+<p class="post-date" property="doap:created" datatype="xsd:date" content="{{ page.date | date: "%Y-%m-%d" }}"><em>{{ page.date | date_to_string }}</em></p>
 
 {{ content }}
+
+<div about="" property="s:dateCreated dc:created" datatype="xsd:date" content="{{ page.date | date: "%Y-%m-%d" }}"></div>
