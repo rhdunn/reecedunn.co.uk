@@ -1,12 +1,12 @@
 ---
-layout: webpage
+layout: blog
 ---
 
-## Projects
+# Projects
 
 *  [eSpeak for Android](/espeak-for-android)
 
-## RDF Schemas
+# RDF Schemas
 
 These are schemas for RDF data I use in my own projects, especially
 Cainteoir Text-to-Speech.
