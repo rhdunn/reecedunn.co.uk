@@ -5,6 +5,7 @@ layout: blog
 # Projects
 
 *  [eSpeak for Android](/espeak-for-android)
+*  [Cainteoir Text-to-Speech](/cainteoir)
 
 # RDF Schemas
 
