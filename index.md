@@ -1,5 +1,6 @@
 ---
 layout: blog
+categories: ['programming', 'tts']
 ---
 
 # Projects
