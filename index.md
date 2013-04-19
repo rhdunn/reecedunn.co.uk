@@ -1,6 +1,9 @@
 ---
 layout: blog
+description: Text-to-speech and other software, programming tutorials and information.
+keywords: text to speech, tts, espeak, cainteoir
 categories: ['programming', 'tts']
+feeds: ['rss2']
 ---
 
 # Projects

@@ -1,4 +1,6 @@
+author: {'name': 'Reece H. Dunn', 'foaf': '/about#me'}
 exclude: ['COPYING.CC_BY_30','Makefile','README.md']
+start_year: 2010
 language: en
 namespaces: {
   dc:   'http://purl.org/dc/elements/1.1/',
