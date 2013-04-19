@@ -46,7 +46,7 @@ example:
     prepare /pɹəpˈeə/ got: /pɹɪpˈeə/ ... fail
     Elise /əlˈiːz/ got: /ɪlˈiːz/ ... fail
     Eoghan /ˈəʊən/ got: /ɪˈɒɡən/ ... fail
-    Eoin /ˈəʊən/ got: /ɪˈɔɪn/ ... fail</pre>
+    Eoin /ˈəʊən/ got: /ɪˈɔɪn/ ... fail
 
 The `tests/dictionary.py` has another feature where it can produce an exception
 dictionary usable by eSpeak containing the mispronounced words and the
