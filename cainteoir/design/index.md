@@ -6,6 +6,13 @@ keywords: text to speech, tts, cainteoir, design, architecture
 breadcrumbs:
   - /index.html
   - /cainteoir/index.html
+references:
+  - {id:    ref1,
+     title: "Languages, Voices, Accents and Dialects",
+     href:  "languages-voices-accents-and-dialects"}
+  - {id:    ref2,
+     title: "Voice Quality",
+     href:  "quality"}
 ---
 
 The Cainteoir Text-to-Speech Engine is split into several groups that relate to
