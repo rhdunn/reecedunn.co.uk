@@ -23,6 +23,8 @@ developers:
 categories:
   - { name: "Speech Synthesis" , url: "http://dbpedia.org/resource/Category:Speech_synthesis" }
 screenshot: { src: "/cainteoir/images/cainteoir-gtk-reading.png" , alt: "The Gnome/GTK interface to Cainteoir Text-to-Speech reading The Raven by Edgar Allen Poe." }
+applications:
+  - { name: cainteoir-gtk , description: "The GNOME 3/GTK+ GUI interface to Cainteoir Text-to-Speech." }
 rdf: ['rdfxml']
 feeds: ['rss2']
 ---
