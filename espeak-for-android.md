@@ -28,6 +28,7 @@ developers:
 categories:
   - { name: "Speech Synthesis" , url: "http://dbpedia.org/resource/Category:Speech_synthesis" }
 rdf: ['rdfxml']
+feeds: ['rss2']
 ---
 
 This port of eSpeak is built on the eyes-free version. It fixes multiple issues found in the eyes-free version:

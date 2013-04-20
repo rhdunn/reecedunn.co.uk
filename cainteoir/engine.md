@@ -30,4 +30,5 @@ applications:
   - { name: cainteoir , description: "The command-line interface to the Cainteoir Text-to-Speech program." }
   - { name: metadata  , description: "A metadata extraction utility returning RDF metadata for supported document formats." }
 rdf: ['rdfxml']
+feeds: ['rss2']
 ---
