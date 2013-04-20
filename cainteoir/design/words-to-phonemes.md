@@ -3,10 +3,7 @@ layout: default
 title: Words to Phonemes
 description: The process of converting words into a phonetic representation.
 keywords: text to speech, tts, cainteoir, design, architecture
-breadcrumbs:
-  - /index.html
-  - /cainteoir/index.html
-  - /cainteoir/design/index.html
+parent: /cainteoir/design/index.html
 references:
   - {id:    ref1,
      title: "Phoneme Transcription Schemes",

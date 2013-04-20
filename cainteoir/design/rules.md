@@ -3,10 +3,7 @@ layout: default
 title: Letter to Phoneme Rule Engine
 description: Design document for the rule engine in the Cainteoir Text-to-Speech program.
 keywords: text to speech, tts, cainteoir, rules, letter to phoneme, pronunciation dictionary, grapheme to phoneme, grapheme, phoneme
-breadcrumbs:
-  - /index.html
-  - /cainteoir/index.html
-  - /cainteoir/design/index.html
+parent: /cainteoir/design/index.html
 references:
   - {id:        ref1,
      href:      "http://www.speech.cs.cmu.edu/cgi-bin/cmudict",

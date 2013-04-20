@@ -3,9 +3,7 @@ layout: default
 title: Design
 description: The architectural design (implemented and planned) for the Cainteoir Text-to-Speech Engine.
 keywords: text to speech, tts, cainteoir, design, architecture
-breadcrumbs:
-  - /index.html
-  - /cainteoir/index.html
+parent: /cainteoir/index.html
 references:
   - {id:    ref1,
      title: "Languages, Voices, Accents and Dialects",

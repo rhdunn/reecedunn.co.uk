@@ -5,9 +5,7 @@ description: eSpeak for Android 1.46.32 release notes
 keywords: text to speech, tts, espeak, android
 category: release
 project: eSpeak for Android
-breadcrumbs:
-  - /index.html
-  - /espeak-for-android.html
+parent: /espeak-for-android.html
 rdf: ['rdfxml']
 ---
 

@@ -3,10 +3,7 @@ layout: default
 title: Document Processing
 description: How different document formats should be processed.
 keywords: text to speech, tts, cainteoir, design, architecture
-breadcrumbs:
-  - /index.html
-  - /cainteoir/index.html
-  - /cainteoir/design/index.html
+parent: /cainteoir/design/index.html
 ---
 
 This phase is where the different supported documents are processed into a common

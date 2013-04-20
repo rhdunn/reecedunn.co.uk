@@ -3,10 +3,7 @@ layout: default
 title: Voice Quality
 description: How to assess the quality of a text-to-speech voice.
 keywords: text to speech, tts, cainteoir, voice, quality, accuracy, legibility, intelligibility, naturalness
-breadcrumbs:
-  - /index.html
-  - /cainteoir/index.html
-  - /cainteoir/design/index.html
+parent: /cainteoir/design/index.html
 ---
 
 There are different areas in which the quality of voices can be compared:

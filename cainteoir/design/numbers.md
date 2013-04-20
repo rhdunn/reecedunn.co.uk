@@ -3,10 +3,7 @@ layout: default
 title: Numbers
 description: How numbers are spoken, including very large numbers.
 keywords: text to speech, tts, cainteoir, numbers, short scale, long scale
-breadcrumbs:
-  - /index.html
-  - /cainteoir/index.html
-  - /cainteoir/design/index.html
+parent: /cainteoir/design/index.html
 references:
   - {id:    ref1,
      title: "Comparison of American and British English: Numbers",

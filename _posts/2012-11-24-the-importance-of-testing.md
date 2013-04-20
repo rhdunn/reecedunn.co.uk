@@ -5,8 +5,7 @@ description: An analysis of the benefits of having a good test infrastructure.
 keywords: testing, tests, dogfooding, unit test, integration test, fuzz test, programming, tdd, test driven development, bdd, behavioural driven development
 author: { name: Reece H. Dunn , foaf: /about#me }
 category: programming
-breadcrumbs:
-  - /index.html
+parent: /index.html
 ---
 
 Having a good test infrastructure in place is very important to ensuring that

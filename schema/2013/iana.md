@@ -3,9 +3,7 @@ layout: ontology
 description: RDF ontology for describing IANA Language Subtag Registry data.
 keywords: rdfa, ontology, schema, iana, rfc4646, rfc5646, bcp47
 title: IANA Language Subtag Registry Schema
-breadcrumbs:
-  - /index.html
-rdf: ['rdfxml']
+parent: /index.html
 classes:
   - {'label':      'Collection',
      'comment':    'An ISO 639-5 language family code.',
@@ -82,6 +80,7 @@ properties:
      'comment':       'The default script for the subtag.',
      'domain':        '#Subtag',
      'range':         '#Script'}
+rdf: ['rdfxml']
 ---
 
 # Overview

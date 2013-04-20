@@ -5,8 +5,7 @@ description: Using a Regular Expression-like syntax in Pronunciation Dictionarie
 keywords: text to speech, tts, espeak, cainteoir, pronunciation, dictionary, regular, expression, regex
 author: { name: Reece H. Dunn , foaf: /about#me }
 category: tts
-breadcrumbs:
-  - /index.html
+parent: /index.html
 ---
 
 # Building a Pronunciation Dictionary

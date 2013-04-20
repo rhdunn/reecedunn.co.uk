@@ -3,8 +3,7 @@ layout: person
 description: Friend-of-a-friend profile for Reece H. Dunn.
 keywords: reece, dunn, foaf, rdfa
 title: "About Reece H. Dunn"
-breadcrumbs:
-  - /index.html
+parent: /index.html
 person: "Reece H. Dunn"
 email: msclrhd@gmail.com
 rdf: ['rdfxml']

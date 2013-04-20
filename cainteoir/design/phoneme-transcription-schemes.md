@@ -3,10 +3,7 @@ layout: default
 title: Phoneme Transcription Schemes
 description: Different schemes or alphabets for transcribing a phonetic pronunciation.
 keywords: text to speech, tts, cainteoir, phoneme, phoneme transcription, ipa, sampa, x-sampa, kirshenbaum, arpabet
-breadcrumbs:
-  - /index.html
-  - /cainteoir/index.html
-  - /cainteoir/design/index.html
+parent: /cainteoir/design/index.html
 ---
 
 A phonetic transcription scheme is a way of writing down phonemes to represent

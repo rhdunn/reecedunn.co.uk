@@ -3,10 +3,7 @@ layout: default
 title: Text to Words
 description: The process of splitting a block of text into its component words.
 keywords: text to speech, tts, cainteoir, design, architecture
-breadcrumbs:
-  - /index.html
-  - /cainteoir/index.html
-  - /cainteoir/design/index.html
+parent: /cainteoir/design/index.html
 references:
   - {id:    ref1,
      title: "Numbers",

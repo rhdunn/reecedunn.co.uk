@@ -3,10 +3,7 @@ layout: default
 title: Languages, Voices, Accents and Dialects
 description: How languages, voices, accents and dialects are related, especially for text-to-speech synthesis.
 keywords: text to speech, tts, cainteoir, phonetics, accent, dialect
-breadcrumbs:
-  - /index.html
-  - /cainteoir/index.html
-  - /cainteoir/design/index.html
+parent: /cainteoir/design/index.html
 ---
 
 A language such as English or Spanish defines:

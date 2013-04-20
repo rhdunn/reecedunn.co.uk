@@ -5,8 +5,7 @@ description: Refactoring code bases to maintain healthy projects and implementin
 keywords: refactoring, refactor, testing, tests, programming
 author: { name: Reece H. Dunn , foaf: /about#me }
 category: programming
-breadcrumbs:
-  - /index.html
+parent: /index.html
 ---
 
 Refactoring code is where the code is modified such that the behaviour of the

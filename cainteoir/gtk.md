@@ -4,9 +4,7 @@ description: Listen to and record ePub and HTML ebooks.
 long-description: Listen to your documents or record them for use on the move using any of the eSpeak text-to-speech voices with the Cainteoir Text-to-Speech Open Source software using a Gnome-based graphical interface on Linux and other POSIX systems.
 keywords: text to speech, tts, espeak, cainteoir, ebook, epub, ogg
 title: Cainteoir Text-to-Speech
-breadcrumbs:
-  - /index.html
-  - /cainteoir/index.html
+parent: /cainteoir/index.html
 install: "https://launchpad.net/~msclrhd-gmail/+archive/cainteoir"
 issues: "https://github.com/rhdunn/cainteoir-gtk/issues"
 license: gpl3+

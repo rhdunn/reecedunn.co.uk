@@ -3,10 +3,7 @@ layout: default
 title: Phoneme Morphology
 description: How phonemes change due to factors like accent and speech impediments.
 keywords: text to speech, tts, cainteoir, phoneme, phoneme morphology, accent, dialect
-breadcrumbs:
-  - /index.html
-  - /cainteoir/index.html
-  - /cainteoir/design/index.html
+parent: /cainteoir/design/index.html
 ---
 
 Phoneme morphology is where various phonemes transform to other phonemes as

@@ -3,10 +3,7 @@ layout: default
 title: Phoneme Synthesis
 description: The process of converting phonemes to audio.
 keywords: text to speech, tts, cainteoir, design, architecture
-breadcrumbs:
-  - /index.html
-  - /cainteoir/index.html
-  - /cainteoir/design/index.html
+parent: /cainteoir/design/index.html
 ---
 
 This phase converts the phonemes in a phoneme sequence to audio. This can

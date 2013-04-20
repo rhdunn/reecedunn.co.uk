@@ -5,10 +5,7 @@ description: Cainteoir Text-to-Speech 0.8 release notes
 keywords: text to speech, tts, espeak, cainteoir, ebook, epub, ogg, rdf, metadata, gnome, gtk
 category: release
 project: Cainteoir Text-to-Speech
-breadcrumbs:
-  - /index.html
-  - /cainteoir/index.html
-  - /cainteoir/gtk.html
+parent: /cainteoir/gtk.html
 rdf: ['rdfxml']
 ---
 
