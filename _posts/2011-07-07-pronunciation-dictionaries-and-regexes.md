@@ -8,8 +8,6 @@ category: tts
 parent: /index.html
 ---
 
-# Building a Pronunciation Dictionary
-
 Over the past few months I have been compiling a _pronunciation dictionary_ for
 English. This is a _big_ task. So why start it?
 
