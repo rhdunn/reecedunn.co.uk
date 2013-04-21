@@ -9,7 +9,7 @@ install: "https://launchpad.net/~msclrhd-gmail/+archive/cainteoir"
 issues: "https://github.com/rhdunn/cainteoir-gtk/issues"
 license: gpl3+
 programming-language:
-  - C++
+  - C++11
 os:
   - Linux
 homepage: "http://rhdunn.github.com/cainteoir/"
