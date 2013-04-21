@@ -44,7 +44,7 @@ Pronunciation errors should be reported to the [espeak-general@lists.sourceforge
 
 # Languages and Accents
 
-<ol class="columns3">
+<ol class="columns3 flex">
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="af">Afrikaans</li>
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="sq" title="Albanian">shqip</li>
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="am" title="Amharic">ኣማርኛ <sup><a href="#note1">1</a></sup></li>
@@ -119,7 +119,7 @@ Pronunciation errors should be reported to the [espeak-general@lists.sourceforge
 
 # English Accents
 
-<ol class="columns3">
+<ol class="columns3 flex">
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="en-GB-x-wmids">West Midlands</li>
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="en-029">Caribbean</li>
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="en-GB-x-north">Lancastrian</li>
