@@ -53,7 +53,7 @@ primary_topic_id: doap
 <th>Categories</th>
 <td>
 <ul>
-{% for item in page.categories %}<li><a rel="doap:category" href="{{ item.url }}">{{ item.name }}</a></li>
+{% for item in page.categories %}<li><a rel="doap:category" href="{{ item.url }}"></a>{{ item.name }}</li>
 {% endfor %}</ul>
 </td>
 </tr>
@@ -67,7 +67,7 @@ primary_topic_id: doap
 </tr>
 {% endif %}{% if page.license == 'gpl3+' %}<tr>
 <th>License</th>
-<td><a rel="doap:license" href="http://www.gnu.org/licenses/gpl-3.0">GPLv3+</a></td>
+<td>{{ page.license | project_license }}</td>
 </tr>
 {% endif %}</table>
 
