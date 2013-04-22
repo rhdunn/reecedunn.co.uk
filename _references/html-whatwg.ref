@@ -1,0 +1,8 @@
+id: html-whatwg
+href: "http://www.whatwg.org/specs/web-apps/current-work/multipage/index.html"
+title: "HTML Living Standard"
+authors: ["Ian Hickson"]
+date: "2011-12-16"
+publisher: {
+  href: "http://www.whatwg.org/",
+  name: "WHATWG"}
