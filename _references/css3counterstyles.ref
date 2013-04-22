@@ -1,0 +1,9 @@
+id: css3counterstyles
+href: "http://www.w3.org/TR/css-counter-styles-3/"
+title: "CSS Counter Styles Level 3"
+authors: ["Tab Atkins Jr."]
+date: "2012-10-09"
+publisher: {
+  href: "http://www.w3.org/",
+  name: "World Wide Web Consortium",
+  abbr: W3C}
