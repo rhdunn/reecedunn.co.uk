@@ -1,0 +1,9 @@
+id: css21
+href: "http://www.w3.org/TR/CSS21/"
+title: "Cascading Style Sheets Level 2 Revision 1 Specification"
+authors: ["Bert Bos", "Tantek Çelik", "Ian Hickson", "Håkon Wium Lie"]
+date: "2011-06-07"
+publisher: {
+  href: "http://www.w3.org/",
+  name: "World Wide Web Consortium",
+  abbr: W3C}
