@@ -11,7 +11,7 @@ parent: /cainteoir/index.html
 *  [CSS](css)
 *  email
 *  ePub
-*  HTML
+*  [HTML](html)
 *  MHTML
 *  PDF
 *  Plain Text

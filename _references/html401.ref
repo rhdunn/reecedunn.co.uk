@@ -1,0 +1,9 @@
+id: html401
+href: "http://www.w3.org/TR/1998/REC-html40-19980424/"
+title: "HTML 4.01 Specification"
+authors: ["Dave Raggett", "Arnaud Le Hors", "Ian Jacobs"]
+date: "1999-12-24"
+publisher: {
+  href: "http://www.w3.org/",
+  name: "World Wide Web Consortium",
+  abbr: W3C}
