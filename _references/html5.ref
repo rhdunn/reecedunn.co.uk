@@ -1,0 +1,9 @@
+id: html5
+href: "http://www.w3.org/TR/html5/"
+title: "HTML5"
+authors: ["Ian Hickson"]
+date: "2011-05-25"
+publisher: {
+  href: "http://www.w3.org/",
+  name: "World Wide Web Consortium",
+  abbr: W3C}
