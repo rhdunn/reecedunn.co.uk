@@ -1,5 +1,7 @@
 ---
 layout: default
+_copyright_: "Copyright (C) 2011-2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 title: Text to Words
 description: The process of splitting a block of text into its component words.
 keywords: text to speech, tts, cainteoir, design, architecture

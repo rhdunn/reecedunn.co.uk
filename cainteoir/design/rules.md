@@ -1,5 +1,7 @@
 ---
 layout: default
+_copyright_: "Copyright (C) 2011-2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 title: Letter to Phoneme Rule Engine
 description: Design document for the rule engine in the Cainteoir Text-to-Speech program.
 keywords: text to speech, tts, cainteoir, rules, letter to phoneme, pronunciation dictionary, grapheme to phoneme, grapheme, phoneme

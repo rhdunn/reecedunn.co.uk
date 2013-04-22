@@ -1,5 +1,7 @@
 ---
 layout: project
+_copyright_: "Copyright (C) 2010-2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 description: Listen to and record ePub and HTML ebooks.
 long-description: Listen to your documents or record them for use on the move using any of the eSpeak text-to-speech voices with the Cainteoir Text-to-Speech Open Source software using a Gnome-based graphical interface on Linux and other POSIX systems.
 keywords: text to speech, tts, espeak, cainteoir, ebook, epub, ogg

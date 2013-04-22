@@ -1,5 +1,7 @@
 ---
 layout: person
+_copyright_: "Copyright (C) 2012-2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 description: Friend-of-a-friend profile for Reece H. Dunn.
 keywords: reece, dunn, foaf, rdfa
 title: "About Reece H. Dunn"

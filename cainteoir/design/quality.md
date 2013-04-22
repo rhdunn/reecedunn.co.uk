@@ -1,5 +1,7 @@
 ---
 layout: default
+_copyright_: "Copyright (C) 2011-2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 title: Voice Quality
 description: How to assess the quality of a text-to-speech voice.
 keywords: text to speech, tts, cainteoir, voice, quality, accuracy, legibility, intelligibility, naturalness

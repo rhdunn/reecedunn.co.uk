@@ -1,5 +1,7 @@
 ---
 layout: project
+_copyright_: "Copyright (C) 2010-2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 description: Text-to-speech engine supporting multiple document formats.
 long-description: The Cainteoir Text-to-Speech Engine is a library for reading and recording different document formats (such as ePub and HTML) to various audio output formats (such as PulseAudio, WAV and OGG/Vorbis) using text-to-speech synthesis.
 keywords: text to speech, tts, espeak, cainteoir, ebook, epub, ogg, rdf, metadata

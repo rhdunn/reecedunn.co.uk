@@ -1,5 +1,7 @@
 ---
 layout: post
+_copyright_: "Copyright (C) 2012-2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 title: "Refactoring: Part 1"
 description: Refactoring code bases to maintain healthy projects and implementing new features.
 keywords: refactoring, refactor, testing, tests, programming

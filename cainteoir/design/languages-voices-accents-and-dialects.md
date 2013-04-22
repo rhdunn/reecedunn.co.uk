@@ -1,5 +1,7 @@
 ---
 layout: default
+_copyright_: "Copyright (C) 2011-2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 title: Languages, Voices, Accents and Dialects
 description: How languages, voices, accents and dialects are related, especially for text-to-speech synthesis.
 keywords: text to speech, tts, cainteoir, phonetics, accent, dialect

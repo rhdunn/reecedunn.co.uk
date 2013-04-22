@@ -1,5 +1,7 @@
 ---
 layout: post
+_copyright_: "Copyright (C) 2012-2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 title: "The Importance of Testing"
 description: An analysis of the benefits of having a good test infrastructure.
 keywords: testing, tests, dogfooding, unit test, integration test, fuzz test, programming, tdd, test driven development, bdd, behavioural driven development

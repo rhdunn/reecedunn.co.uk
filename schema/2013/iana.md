@@ -1,5 +1,7 @@
 ---
 layout: ontology
+_copyright_: "Copyright (C) 2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 description: RDF ontology for describing IANA Language Subtag Registry data.
 keywords: rdfa, ontology, schema, iana, rfc4646, rfc5646, bcp47
 title: IANA Language Subtag Registry Schema

@@ -1,5 +1,7 @@
 ---
 layout: post
+_copyright_: "Copyright (C) 2011-2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 title: Pronunciation Dictionaries and Regular Expressions
 description: Using a Regular Expression-like syntax in Pronunciation Dictionaries
 keywords: text to speech, tts, espeak, cainteoir, pronunciation, dictionary, regular, expression, regex

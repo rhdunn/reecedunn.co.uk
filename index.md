@@ -1,5 +1,7 @@
 ---
 layout: blog
+_copyright_: "Copyright (C) 2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 description: Text-to-speech and other software, programming tutorials and information.
 keywords: text to speech, tts, espeak, cainteoir
 categories: ['programming', 'tts']
