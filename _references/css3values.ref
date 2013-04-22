@@ -1,0 +1,9 @@
+id: css3values
+href: "http://www.w3.org/TR/css3-values/"
+title: "CSS Values and Units Level 3"
+authors: ["Håkon Wium Lie", "Tab Atkins Jr.", "Elika J. Etemad"]
+date: "2012-08-28"
+publisher: {
+  href: "http://www.w3.org/",
+  name: "World Wide Web Consortium",
+  abbr: W3C}
