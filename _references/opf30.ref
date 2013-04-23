@@ -1,0 +1,8 @@
+id: opf30
+href: "http://idpf.org/epub/30/spec/epub30-publications.html"
+title: "EPUB Publications 3.0"
+date: "2011-10-11"
+publisher: {
+  href: "http://idpf.org/",
+  name: "International Digital Publishing Forum",
+  abbr: IDPF}
