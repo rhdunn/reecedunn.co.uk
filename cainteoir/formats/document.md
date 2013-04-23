@@ -13,6 +13,7 @@ parent: /cainteoir/index.html
 *  ePub
 *  [HTML](html)
 *  MHTML
+*  [NCX](ncx)
 *  PDF
 *  Plain Text
 *  RDF/XML
