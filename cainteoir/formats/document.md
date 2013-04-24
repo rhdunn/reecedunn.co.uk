@@ -16,6 +16,7 @@ parent: /cainteoir/index.html
 *  [NCX](ncx)
 *  [OCF](ocf)
 *  [OPF](opf)
+*  [OPS](ops)
 *  PDF
 *  Plain Text
 *  RDF/XML
