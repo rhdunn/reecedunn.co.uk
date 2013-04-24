@@ -1,0 +1,8 @@
+id: rfc1521
+href: "http://www.rfc-editor.org/rfc/rfc1521.txt"
+title: "Mechanisms for Specifying and Describing the Format of Internet Message Bodies"
+date: "1993-09"
+authors: ["N. Borenstein", "N. Freed"]
+publisher: {
+  href: "http://www.rfc-editor.org/",
+  name: "RFC Editor"}
