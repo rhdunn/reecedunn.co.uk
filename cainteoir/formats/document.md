@@ -19,7 +19,7 @@ parent: /cainteoir/index.html
 *  [OPS](ops)
 *  PDF
 *  Plain Text
-*  RDF/XML
+*  [RDF/XML](rdfxml)
 *  RSS
 *  RTF
 *  SSML
