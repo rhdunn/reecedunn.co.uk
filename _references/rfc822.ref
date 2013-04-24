@@ -1,0 +1,7 @@
+id: rfc822
+href: "http://www.rfc-editor.org/rfc/rfc822.txt"
+title: "Standard for the Format of ARPA Internet Text Messages"
+date: "1982-08-13"
+publisher: {
+  href: "http://www.rfc-editor.org/",
+  name: "RFC Editor"}

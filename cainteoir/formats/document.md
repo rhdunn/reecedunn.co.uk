@@ -21,6 +21,7 @@ parent: /cainteoir/index.html
 *  Plain Text
 *  [RDF/XML](rdfxml)
 *  RSS
+*  [RFC](rfc)
 *  RTF
 *  SSML
 *  XHTML
