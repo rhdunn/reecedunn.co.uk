@@ -25,3 +25,4 @@ parent: /cainteoir/index.html
 *  [RTF](rtf)
 *  [SSML](ssml)
 *  XHTML
+*  [XML](xml)
