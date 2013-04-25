@@ -1,0 +1,6 @@
+id: rtf17
+href: "http://latex2rtf.sourceforge.net/RTF-Spec-1.7.pdf"
+title: "Rich Text Format (RTF) Specification 1.7"
+publisher: {
+  href: "http://www.microsoft.com",
+  name: "Microsoft"}

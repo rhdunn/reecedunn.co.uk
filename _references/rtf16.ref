@@ -1,0 +1,6 @@
+id: rtf16
+href: "http://latex2rtf.sourceforge.net/rtfspec.html"
+title: "Rich Text Format (RTF) Specification 1.6"
+publisher: {
+  href: "http://www.microsoft.com",
+  name: "Microsoft"}

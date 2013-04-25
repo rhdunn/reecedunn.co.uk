@@ -1,0 +1,6 @@
+id: rtf12
+href: "http://latex2rtf.sourceforge.net/RTF-Spec-1.2.pdf"
+title: "Rich Text Format (RTF) Specification 1.2"
+publisher: {
+  href: "http://www.microsoft.com",
+  name: "Microsoft"}

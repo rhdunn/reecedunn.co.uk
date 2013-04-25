@@ -1,0 +1,6 @@
+id: rtf15
+href: "http://latex2rtf.sourceforge.net/RTF-Spec-1.5.pdf"
+title: "Rich Text Format (RTF) Specification 1.5"
+publisher: {
+  href: "http://www.microsoft.com",
+  name: "Microsoft"}
