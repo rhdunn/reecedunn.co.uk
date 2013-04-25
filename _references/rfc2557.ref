@@ -1,0 +1,8 @@
+id: rfc2557
+href: "http://www.rfc-editor.org/rfc/rfc2557.txt"
+title: "MIME Encapsulation of Aggregate Documents, such as HTML (MHTML)"
+date: "1999-03"
+authors: ["J. Palme", "A. Hopmann", "N. Shelness"]
+publisher: {
+  href: "http://www.rfc-editor.org/",
+  name: "RFC Editor"}
