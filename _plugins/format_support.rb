@@ -46,10 +46,11 @@ module Jekyll
       attr_accessor :title
 
       ESCAPES = {
-        '\[' => '[',
-        '\]' => ']',
-        '\*' => '*',
-        '\_' => '_',
+        '\\['  => '[',
+        '\\]'  => ']',
+        '\\*'  => '*',
+        '\\_'  => '_',
+        '\\\\' => '\\',
       }
 
       def initialize(title)
@@ -59,7 +60,7 @@ module Jekyll
       def parse(value)
         if value
           ESCAPES.each do |match, replacement|
-            value = value.sub(match, replacement)
+            value = value.gsub(match, replacement)
           end
         end
         return value
