@@ -1,0 +1,9 @@
+id: html_ruby
+href: "http://www.w3.org/TR/2001/REC-ruby-20010531/"
+title: "Ruby Annotations"
+authors: ["Marcin Sawicki", "Michel Suignard", "Masayasu Ishikawa", "Martin Dürst", "Tex Texin"]
+date: "2001-05-31"
+publisher: {
+  href: "http://www.w3.org/",
+  name: "World Wide Web Consortium",
+  abbr: W3C}
