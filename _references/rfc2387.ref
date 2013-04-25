@@ -1,0 +1,8 @@
+id: rfc2387
+href: "http://www.rfc-editor.org/rfc/rfc2387.txt"
+title: "The MIME Miltipart/Related Content-type"
+date: "1998-08"
+authors: ["E. Levinson"]
+publisher: {
+  href: "http://www.rfc-editor.org/",
+  name: "RFC Editor"}
