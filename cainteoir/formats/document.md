@@ -9,10 +9,10 @@ parent: /cainteoir/index.html
 ---
 
 *  [CSS](css)
-*  email
+*  [email](rfc822)
 *  ePub
 *  [HTML](html)
-*  MHTML
+*  [MHTML](rfc2557)
 *  [NCX](ncx)
 *  [OCF](ocf)
 *  [OPF](opf)
