@@ -20,8 +20,8 @@ parent: /cainteoir/index.html
 *  PDF
 *  Plain Text
 *  [RDF/XML](rdfxml)
-*  RSS
 *  [RFC](rfc)
+*  [RSS](rss)
 *  RTF
 *  SSML
 *  XHTML
