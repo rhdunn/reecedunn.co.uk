@@ -1,0 +1,9 @@
+id: xml11
+href: "http://www.w3.org/TR/2006/REC-xml11-20060816/"
+title: "Extensible Markup Language (XML) 1.1 (Second Edition)"
+authors: ["Tim Bray", "Jean Paoli", "C. M. Sperberg-McQueen", "Eve Maler", "François Yergeau", "John Cowan"]
+date: "2006-08-16"
+publisher: {
+  href: "http://www.w3.org/",
+  name: "World Wide Web Consortium",
+  abbr: W3C}
