@@ -1,0 +1,9 @@
+id: ssml10
+href: "http://www.w3.org/TR/speech-synthesis/"
+title: "Speech Synthesis Markup Language (SSML) Version 1.0"
+authors: ["Daniel C. Burnett", "Mark R. Walker", "Andrew Hunt"]
+date: "2004-09-07"
+publisher: {
+  href: "http://www.w3.org/",
+  name: "World Wide Web Consortium",
+  abbr: W3C}
