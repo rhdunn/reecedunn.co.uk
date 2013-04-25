@@ -1,0 +1,9 @@
+id: xhtml10
+href: "http://www.w3.org/TR/2002/REC-xhtml1-20020801/"
+title: "XHTML 1.0 The Extensible HyperText Markup Language (Second Edition)"
+authors: ["W3C HTML Working Group"]
+date: "2002-08-01"
+publisher: {
+  href: "http://www.w3.org/",
+  name: "World Wide Web Consortium",
+  abbr: W3C}

@@ -1,0 +1,9 @@
+id: xhtml11
+href: "http://www.w3.org/TR/xhtml11/xhtml11.html"
+title: "XHTML 1.1 - Module-based XHTML - Second Edition"
+authors: ["W3C HTML Working Group"]
+date: "2010-11-23"
+publisher: {
+  href: "http://www.w3.org/",
+  name: "World Wide Web Consortium",
+  abbr: W3C}
