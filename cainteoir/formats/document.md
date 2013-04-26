@@ -13,7 +13,7 @@ parent: /cainteoir/index.html
 *  [HTML](html)
 *  [MHTML](mime)
 *  PDF
-*  Plain Text
+*  [Plain Text](text)
 *  [RDF/XML](rdfxml)
 *  [RSS](rss)
 *  [RTF](rtf)
