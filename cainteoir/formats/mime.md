@@ -1,8 +1,8 @@
 ---
 layout: default
-description: RFC support.
-keywords: rfc
-title: RFC
+description: MIME support.
+keywords: rfc, mime
+title: MIME
 parent: /cainteoir/formats/document.html
 ---
 

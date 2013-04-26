@@ -8,10 +8,10 @@ title: Supported Document Formats
 parent: /cainteoir/index.html
 ---
 
-*  [email](rfc822)
+*  [email](mime)
 *  ePub
 *  [HTML](html)
-*  [MHTML](rfc2557)
+*  [MHTML](mime)
 *  [NCX](ncx)
 *  [OCF](ocf)
 *  [OPF](opf)
