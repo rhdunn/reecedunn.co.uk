@@ -10,3 +10,7 @@ parent: /cainteoir/formats/document.html
 
 *  [1.0](ssml10)
 *  [1.1](ssml11)
+
+# Related Specifications
+
+*  [XML](xml)

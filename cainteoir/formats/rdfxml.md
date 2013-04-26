@@ -9,3 +9,7 @@ parent: /cainteoir/formats/document.html
 ---
 
 *  [2004](rdfxml2004)
+
+# Related Specifications
+
+*  [XML](xml)
