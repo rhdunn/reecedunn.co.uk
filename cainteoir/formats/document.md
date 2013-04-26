@@ -8,7 +8,6 @@ title: Supported Document Formats
 parent: /cainteoir/index.html
 ---
 
-*  [CSS](css)
 *  [email](rfc822)
 *  ePub
 *  [HTML](html)
@@ -24,5 +23,5 @@ parent: /cainteoir/index.html
 *  [RSS](rss)
 *  [RTF](rtf)
 *  [SSML](ssml)
-*  XHTML
+*  [XHTML](html)
 *  [XML](xml)
