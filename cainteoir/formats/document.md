@@ -12,7 +12,7 @@ parent: /cainteoir/index.html
 *  [ePub](epub)
 *  [HTML](html)
 *  [MHTML](mime)
-*  PDF
+*  PDF -- Supported using the Poppler library.
 *  [Plain Text](text)
 *  [RSS](rss)
 *  [RTF](rtf)
