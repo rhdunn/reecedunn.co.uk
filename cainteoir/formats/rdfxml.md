@@ -1,5 +1,7 @@
 ---
 layout: default
+_copyright_: "Copyright (C) 2012-2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 description: RDF/XML support.
 keywords: rdf, xml, rdfxml
 title: RDF/XML

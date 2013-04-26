@@ -1,5 +1,7 @@
 ---
 layout: default
+_copyright_: "Copyright (C) 2012-2013 Reece H. Dunn"
+_license_: "CC-BY-SA 3.0"
 description: SSML support.
 keywords: ssml
 title: SSML
