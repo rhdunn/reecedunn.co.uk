@@ -7,7 +7,7 @@ long-description: The eSpeak for Android program is a port of the eSpeak Text-to
 keywords: text to speech, tts, espeak, android
 title: eSpeak for Android
 parent: /index.html
-install: "https://play.google.com/store/apps/details?id=com.reecedunn.espeak"
+install_android: "https://play.google.com/store/apps/details?id=com.reecedunn.espeak"
 issues: "https://github.com/rhdunn/espeak/issues"
 license: gpl3+
 programming-language:
