@@ -13,4 +13,5 @@ parent: /cainteoir/formats/document.html
 
 # Related Specifications
 
+*  [RDF/XML](rdfxml)
 *  [XML](xml)

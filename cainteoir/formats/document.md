@@ -14,7 +14,6 @@ parent: /cainteoir/index.html
 *  [MHTML](mime)
 *  PDF
 *  [Plain Text](text)
-*  [RDF/XML](rdfxml)
 *  [RSS](rss)
 *  [RTF](rtf)
 *  [SSML](ssml)
