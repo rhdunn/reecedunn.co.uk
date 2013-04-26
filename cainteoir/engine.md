@@ -30,3 +30,8 @@ applications:
 rdf: ['rdfxml']
 feeds: ['rss2']
 ---
+
+# See Also
+
+*  [Documents](formats/document) -- document format support
+*  [Metadata](formats/metadata) -- metadata format import/export support
