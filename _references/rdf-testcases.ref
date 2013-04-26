@@ -1,0 +1,9 @@
+id: rdf_testcases
+href: "http://www.w3.org/TR/rdf-testcases/"
+title: "RDF Test Cases"
+authors: ["Jan Grant", "Dave Beckett"]
+date: "2004-02-10"
+publisher: {
+  href: "http://www.w3.org/",
+  name: "World Wide Web Consortium",
+  abbr: W3C}

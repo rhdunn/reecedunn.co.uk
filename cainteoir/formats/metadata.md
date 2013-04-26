@@ -8,4 +8,5 @@ title: Metadata
 parent: /cainteoir/index.html
 ---
 
+*  [N-Triples](ntriples)
 *  [RDF/XML](rdfxml)
