@@ -9,13 +9,9 @@ parent: /cainteoir/index.html
 ---
 
 *  [email](mime)
-*  ePub
+*  [ePub](epub)
 *  [HTML](html)
 *  [MHTML](mime)
-*  [NCX](ncx)
-*  [OCF](ocf)
-*  [OPF](opf)
-*  [OPS](ops)
 *  PDF
 *  Plain Text
 *  [RDF/XML](rdfxml)

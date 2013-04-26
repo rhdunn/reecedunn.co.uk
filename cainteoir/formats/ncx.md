@@ -7,3 +7,7 @@ parent: /cainteoir/formats/document.html
 ---
 
 *  [2005](ncx2005)
+
+# Related Specifications
+
+*  [XML](xml)
