@@ -12,7 +12,7 @@ references:
 ---
 
 2.1,Document Form,,0.4,0.4,
-2.2.3,XHTML,html.csv,no,no,
+2.2.3,XHTML,html,no,no,
 2.3.1,SMIL,,no,no,
 2.3.2,Aural CSS,,no,no,
 2.3.2,VoiceXML,,no,no,
@@ -26,7 +26,7 @@ references:
 3.1.5.2,lookup,,no,no,
 3.1.6,meta,,0.4,0.4,
 3.1.7,metadata,,0.4,0.4,
-3.1.7,RDF/XML,rdfxml.csv,0.4,0.4,
+3.1.7,RDF/XML,rdfxml,0.4,0.4,
 3.1.8.1,p,,0.4,0.4,
 3.1.8.1,s,,0.4,0.4,
 3.1.8.2,token,,no,no,

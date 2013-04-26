@@ -11,8 +11,8 @@ references:
   - rss10.ref
 ---
 
-5.1,xml,xml.csv,~0.1,~0.1,Tested in the XML parser.
-5.2,rdf:RDF,rdfxml.csv,~0.1,0.1,Tested in the RDF/XML parser.
+5.1,xml,xml,~0.1,~0.1,Tested in the XML parser.
+5.2,rdf:RDF,rdfxml,~0.1,0.1,Tested in the RDF/XML parser.
 5.3,channel,,~0.1,no,
 5.3.1,title,,~0.1,no,
 5.3.2,link,,~0.1,no,

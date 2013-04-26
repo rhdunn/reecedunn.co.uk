@@ -11,7 +11,7 @@ references:
   - ops30.ref
 ---
 
-2.1,XHTML Content Documents,html.csv,~0.1,~0.1,XHTML 5.0
+2.1,XHTML Content Documents,html,~0.1,~0.1,XHTML 5.0
 2.1.3.1.2,epub:type,,no,no,
 2.1.3.2.2,ssml:ph,,no,no,
 2.1.3.2.3,ssml:alphabet,,no,no,
