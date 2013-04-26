@@ -31,9 +31,6 @@ rdf: ['rdfxml']
 feeds: ['rss2']
 ---
 
-*  [Engine](engine)  -- The core text-to-speech functionality.
-*  [Design](design)  -- The design of the Cainteoir Text-to-Speech engine.
-
 With Cainteoir Text-to-Speech you can ...
 
 *  Listen to documents in many different formats, including _ePub_ and _HTML_.
@@ -41,3 +38,8 @@ With Cainteoir Text-to-Speech you can ...
    {: .more} [Read More](formats/document)
 
 *  Record the documents to _WAV_ or _Ogg/Vorbis_ audio files.
+
+# See Also
+
+*  [Engine](engine)  -- The core text-to-speech functionality.
+*  [Design](design)  -- The design of the Cainteoir Text-to-Speech engine.
