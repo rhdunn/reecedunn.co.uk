@@ -2,23 +2,25 @@
 layout: format-support
 _copyright_: "Copyright (C) 2012-2013 Reece H. Dunn"
 _license_: "CC-BY-SA 3.0"
-description: N-Triples 2004 export support.
-keywords: ntriples
-title: 2004/02/10 (Export)
-parent: /cainteoir/formats/ntriples.html
+description: N-Quads 2008 export support.
+keywords: nquads
+title: 2008/07 (Export)
+parent: /cainteoir/formats/nquads.html
 type: spec
 references:
-  - rdf-testcases.ref
+  - nquads2008.ref
 ---
 
-3,File Extension,,no,no,\*.nt
-3,MIME Type,,no,no,text/plain
+3,File Extension,,no,no,\*.nq
+3,MIME Type,,no,no,text/x-nquads
 3,Character Encoding,,no,no,7-bit US-ASCII
 3.1,Comment,,na,na,# ...
 3.1,Triple Form,,0.1,0.1,s p o .
+3.1,Quad Form,,no,no,s p o c .
 3.1,Subject,,0.1,0.1,s = URI or BNode
 3.1,Predicate,,0.1,0.1,p = URI
 3.1,Object,,0.1,0.1,o = URI or BNode or Literal
+3.1,Context,,no,no,c = URI or BNode or Literal
 3.1,Literal,,0.1,0.1,Simple Literal or Language Literal or Datatype Literal
 3.1,URI,,0.1,0.1,&lt;uri&gt;
 3.1,BNode,,0.1,0.1,\_:name
