@@ -2,6 +2,7 @@ author: {'name': 'Reece H. Dunn', 'foaf': '/about#me'}
 error_pages: {
   '404': '/error/404.html'}
 exclude: ['COPYING.CC_BY_30','Makefile','README.md']
+google_analytics_account: 'UA-34092118-1'
 start_year: 2010
 language: en
 namespaces: {
