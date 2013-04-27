@@ -12,6 +12,7 @@ feeds: ['rss2']
 
 *  [eSpeak for Android](/espeak-for-android)
 *  [Cainteoir Text-to-Speech](/cainteoir)
+*  [Klatt](/klatt)
 
 # RDF Schemas
 
