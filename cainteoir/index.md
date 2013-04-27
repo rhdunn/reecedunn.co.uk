@@ -21,7 +21,7 @@ repositories:
       location: "git://github.com/rhdunn/cainteoir-gtk.git" ,
       browse: "https://github.com/rhdunn/cainteoir-gtk" }
 developers:
-  - { name: "Reece H. Dunn" , url: "/about#me" , maintainer: true }
+  - { name: "Reece H. Dunn" , foaf: "/about#me" , maintainer: true }
 categories:
   - { name: "Speech Synthesis" , url: "http://dbpedia.org/resource/Category:Speech_synthesis" }
 screenshot: { src: "/cainteoir/images/cainteoir-gtk-reading.png" , alt: "The Gnome/GTK interface to Cainteoir Text-to-Speech reading The Raven by Edgar Allen Poe." }

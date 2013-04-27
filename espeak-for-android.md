@@ -22,10 +22,10 @@ repositories:
       location: "git://github.com/rhdunn/espeak.git" ,
       browse: "https://github.com/rhdunn/espeak" }
 developers:
-  - { name: "Jonathan Duddington" , url: "http://sourceforge.net/users/jonsd" }
-  - { name: "Google Inc." , url: "http://www.google.com" }
-  - { name: "Alan Viverette" , url: "https://plus.google.com/102998416034718374371" }
-  - { name: "Reece H. Dunn" , url: "/about#me" , maintainer: true }
+  - { name: "Jonathan Duddington" , account: "http://sourceforge.net/users/jonsd" }
+  - { name: "Google Inc." , homepage: "http://www.google.com" , type: "foaf:Organization" }
+  - { name: "Alan Viverette" , account: "https://plus.google.com/102998416034718374371" }
+  - { name: "Reece H. Dunn" , foaf: "/about#me" , maintainer: true }
 categories:
   - { name: "Speech Synthesis" , url: "http://dbpedia.org/resource/Category:Speech_synthesis" }
 rdf: ['rdfxml']

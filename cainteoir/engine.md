@@ -21,7 +21,7 @@ repositories:
       location: "git://github.com/rhdunn/cainteoir-engine.git" ,
       browse: "https://github.com/rhdunn/cainteoir-engine" }
 developers:
-  - { name: "Reece H. Dunn" , url: "/about#me" , maintainer: true }
+  - { name: "Reece H. Dunn" , foaf: "/about#me" , maintainer: true }
 categories:
   - { name: "Speech Synthesis" , url: "http://dbpedia.org/resource/Category:Speech_synthesis" }
 applications:
