@@ -8,77 +8,98 @@ title: IANA Language Subtag Registry Schema
 parent: /index.html
 classes:
   - {'label':      'Collection',
+     'added':      '2013-04-16',
      'comment':    'An ISO 639-5 language family code.',
      'subClassOf': '#Language'}
   - {'label':      'ExtLang',
+     'added':      '2013-04-16',
      'comment':    'An ISO 639-2 or 639-3 language code that belongs to a macrolanguage.',
      'subClassOf': '#Subtag'}
   - {'label':      'Grandfathered',
+     'added':      '2013-04-16',
      'comment':    'A deprecated RFC5646 language tag that does not conform to the RFC5646 syntax.',
      'subClassOf': '#Tag'}
   - {'label':      'Language',
+     'added':      '2013-04-16',
      'comment':    'An ISO 639-2, 639-3 or 639-5 language code.',
      'subClassOf': '#Subtag'}
   - {'label':      'MacroLanguage',
+     'added':      '2013-04-16',
      'comment':    'An ISO 639-2 or 639-3 language code representing a group of languages.',
      'subClassOf': '#Language'}
   - {'label':      'Private',
+     'added':      '2013-04-16',
      'comment':    'A user-defined private subtag.',
      'subClassOf': '#Subtag'}
   - {'label':      'Redundant',
+     'added':      '2013-04-16',
      'comment':    'A deprecated RFC5646 language tag that conforms to the RFC5646 syntax.',
      'subClassOf': '#Tag'}
   - {'label':      'Region',
+     'added':      '2013-04-16',
      'comment':    'An ISO 3166 or UN M.49 geographical region code.',
      'subClassOf': '#Subtag'}
   - {'label':      'Script',
+     'added':      '2013-04-16',
      'comment':    'An ISO 15924 writing script code.',
      'subClassOf': '#Subtag'}
   - {'label':      'Special',
+     'added':      '2013-04-16',
      'comment':    'A special purpose language code.',
      'subClassOf': '#Language'}
   - {'label':      'Subtag',
+     'added':      '2013-04-16',
      'comment':    'A component of an RFC5646 language code or a complete grandfathered/redundant tag.'}
   - {'label':      'Tag',
+     'added':      '2013-04-16',
      'comment':    'A complete RFC5646 language tag.',
      'subClassOf': ['#Subtag', 'dct:RFC4646', 'dct:RFC5646']}
   - {'label':      'Variant',
+     'added':      '2013-04-16',
      'comment':    'A specific form of the given language, region and script.',
      'subClassOf': '#Subtag'}
 properties:
   - {'label':         'added',
+     'added':         '2013-04-16',
      'comment':       'The date at which the subtag was added.',
      'domain':        '#Subtag',
      'range':         'rdfs:Literal',
      'subPropertyOf': 'dct:created'}
   - {'label':         'comments',
+     'added':         '2013-04-16',
      'comment':       'Notes about the subtag.',
      'domain':        '#Subtag',
      'range':         'rdfs:Literal',
      'subPropertyOf': 'dct:description'}
   - {'label':         'deprecated',
+     'added':         '2013-04-16',
      'comment':       'The date at which the subtag was deprecated.',
      'domain':        '#Subtag',
      'range':         'rdfs:Literal',
      'subPropertyOf': 'dct:date'}
   - {'label':         'label',
+     'added':         '2013-04-16',
      'comment':       'The name of the subtag.',
      'domain':        '#Subtag',
      'range':         'rdfs:Literal'}
   - {'label':         'macrolanguage',
+     'added':         '2013-04-16',
      'comment':       'The associated parent language.',
      'domain':        '#Language',
      'range':         '#MacroLanguage'}
-  - {'label':         'prefix',
-     'comment':       'The subtag occurring before this subtag.',
-     'domain':        '#Subtag',
-     'range':         '#Subtag'}
   - {'label':         'preferredValue',
+     'added':         '2013-04-29',
      'comment':       'The value that should be used instead of this subtag.',
      'domain':        '#Subtag',
      'range':         '#Subtag',
      'subPropertyOf': 'dct:isReplacedBy'}
+  - {'label':         'prefix',
+     'added':         '2013-04-16',
+     'comment':       'The subtag occurring before this subtag.',
+     'domain':        '#Subtag',
+     'range':         '#Subtag'}
   - {'label':         'supressScript',
+     'added':         '2013-04-29',
      'comment':       'The default script for the subtag.',
      'domain':        '#Subtag',
      'range':         '#Script'}
@@ -140,7 +161,7 @@ The remaining properties are mapped to the following RDF properties:
 <tr><td>Deprecated</td><td><a href="#deprecated">deprecated</a></td></tr>
 <tr><td>Description</td><td><a href="#label">label</a></td></tr>
 <tr><td>Macrolanguage</td><td><a href="#macrolanguage">macrolanguage</a></td></tr>
-<tr><td>Prefix</td><td><a href="#prefix">prefix</a></td></tr>
 <tr><td>Preferred-Value</td><td><a href="#preferredValue">preferredValue</a></td></tr>
+<tr><td>Prefix</td><td><a href="#prefix">prefix</a></td></tr>
 <tr><td>Supress-Script</td><td><a href="#supressScript">supressScript</a></td></tr>
 </table>
