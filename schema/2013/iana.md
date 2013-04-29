@@ -73,12 +73,12 @@ properties:
      'comment':       'The subtag occurring before this subtag.',
      'domain':        '#Subtag',
      'range':         '#Subtag'}
-  - {'label':         'preferred-value',
+  - {'label':         'preferredValue',
      'comment':       'The value that should be used instead of this subtag.',
      'domain':        '#Subtag',
      'range':         '#Subtag',
      'subPropertyOf': 'dct:isReplacedBy'}
-  - {'label':         'supress-script',
+  - {'label':         'supressScript',
      'comment':       'The default script for the subtag.',
      'domain':        '#Subtag',
      'range':         '#Script'}
@@ -141,6 +141,6 @@ The remaining properties are mapped to the following RDF properties:
 <tr><td>Description</td><td><a href="#label">label</a></td></tr>
 <tr><td>Macrolanguage</td><td><a href="#macrolanguage">macrolanguage</a></td></tr>
 <tr><td>Prefix</td><td><a href="#prefix">prefix</a></td></tr>
-<tr><td>Preferred-Value</td><td><a href="#preferred-value">preferred-value</a></td></tr>
-<tr><td>Supress-Script</td><td><a href="#supress-script">supress-script</a></td></tr>
+<tr><td>Preferred-Value</td><td><a href="#preferredValue">preferredValue</a></td></tr>
+<tr><td>Supress-Script</td><td><a href="#supressScript">supressScript</a></td></tr>
 </table>
