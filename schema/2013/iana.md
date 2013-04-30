@@ -98,6 +98,11 @@ properties:
      'comment':       'The subtag occurring before this subtag.',
      'domain':        '#Subtag',
      'range':         '#Subtag'}
+  - {'label':         'subtag',
+     'added':         '2013-04-30',
+     'comment':       'The code associated with the subtag.',
+     'domain':        '#Subtag',
+     'range':         'rdfs:Literal'}
   - {'label':         'supressScript',
      'added':         '2013-04-29',
      'comment':       'The default script for the subtag.',
@@ -163,5 +168,6 @@ The remaining properties are mapped to the following RDF properties:
 <tr><td>Macrolanguage</td><td><a href="#macrolanguage">macrolanguage</a></td></tr>
 <tr><td>Preferred-Value</td><td><a href="#preferredValue">preferredValue</a></td></tr>
 <tr><td>Prefix</td><td><a href="#prefix">prefix</a></td></tr>
+<tr><td>Subtag</td><td><a href="#subtag">subtag</a></td></tr>
 <tr><td>Supress-Script</td><td><a href="#supressScript">supressScript</a></td></tr>
 </table>
