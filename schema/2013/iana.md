@@ -13,7 +13,7 @@ classes:
      'subClassOf': '#Language'}
   - {'label':      'ExtLang',
      'added':      '2013-04-16',
-     'comment':    'An ISO 639-2 or 639-3 language code that belongs to a macrolanguage.',
+     'comment':    'An ISO 639-3 language code that belongs to a macrolanguage.',
      'subClassOf': '#Subtag'}
   - {'label':      'Grandfathered',
      'added':      '2013-04-16',
@@ -21,11 +21,11 @@ classes:
      'subClassOf': '#Tag'}
   - {'label':      'Language',
      'added':      '2013-04-16',
-     'comment':    'An ISO 639-2, 639-3 or 639-5 language code.',
+     'comment':    'An ISO 639-1, 639-3 or 639-5 language code.',
      'subClassOf': '#Subtag'}
   - {'label':      'MacroLanguage',
      'added':      '2013-04-16',
-     'comment':    'An ISO 639-2 or 639-3 language code representing a group of languages.',
+     'comment':    'An ISO 639-1 or 639-3 language code representing a group of languages.',
      'subClassOf': '#Language'}
   - {'label':      'Private',
      'added':      '2013-04-16',
