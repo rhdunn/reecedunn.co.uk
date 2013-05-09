@@ -34,13 +34,16 @@ feeds: ['rss2']
 
 This port of eSpeak is built on the eyes-free version. It fixes multiple issues found in the eyes-free version:
 
-1. Speech rate and pitch are correctly handled, so eSpeak on Android sounds like it does on the desktop
-2. Languages are correctly selected (e.g. selecting Slovak and Slovenian, or selecting Cantonese Chinese)
-3. Language names are correctly displayed (e.g. "Scottish English" is displayed as "English (United Kingdom, Scottish Standard English)")
-4. Accent and special characters are supported
-5. MIPS-based devices are supported
-6. Various memory leaks and crashes are fixed
-7. SSML is only processed if the SSML markup is wrapped in a &lt;speak&gt; tag
+1.  Speech rate and pitch are correctly handled, so eSpeak on Android sounds like it does on the desktop
+2.  Speech rate is set as words per minute
+3.  Pitch, base pitch and volume are configurable as percentages.
+4.  The eSpeak variant can be selected.
+5.  Languages are correctly selected (e.g. selecting Slovak and Slovenian, or selecting Cantonese Chinese)
+6.  Language names are correctly displayed (e.g. "Scottish English" is displayed as "English (United Kingdom, Scottish Standard English)")
+7.  Accent and special characters are supported
+8.  MIPS-based devices are supported
+9.  Various memory leaks and crashes are fixed
+10. SSML is only processed if the SSML markup is wrapped in a &lt;speak&gt; tag
 
 Pronunciation errors should be reported to the [espeak-general@lists.sourceforge.net](mailto:espeak-general@lists.sourceforge.net) mailing list.
 
@@ -53,6 +56,7 @@ Pronunciation errors should be reported to the [espeak-general@lists.sourceforge
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="an" title="Aragonese">Fabla</li>
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="hy" title="Armenian">Հայերէն</li>
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="hy-arevmda" title="Armenian (Western)">Արեւմտահայերէն</li>
+<li property="s:countriesSupported" datatype="dct:RFC5646" content="az" title="Azerbaijani">Azərbaycan</li>
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="bn" title="Bengali">বাংলা <sup><a href="#note1">1</a></sup></li>
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="bs" title="Bosnian">Bosanski</li>
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="bg" title="Bulgarian">български</li>
@@ -113,7 +117,8 @@ Pronunciation errors should be reported to the [espeak-general@lists.sourceforge
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="tr" title="Turkish">Türkçe</li>
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="ur" title="Urdu">اردو <sup><a href="#note1">1</a></sup></li>
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="vi" title="Vietnamese">tiếng việt</li>
-<li property="s:countriesSupported" datatype="dct:RFC5646" content="vi-x-hue" title="Vietnamese">huế việt</li>
+<li property="s:countriesSupported" datatype="dct:RFC5646" content="vi-x-hue" title="Vietnamese (Hue Dialect)">huế việt</li>
+<li property="s:countriesSupported" datatype="dct:RFC5646" content="vi-x-saigon" title="Vietnamese (Saigon Dialect)">sài gòn việt</li>
 <li property="s:countriesSupported" datatype="dct:RFC5646" content="cy" title="Welsh">Cymraeg</li>
 </ol>
 
