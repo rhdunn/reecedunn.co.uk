@@ -5,6 +5,13 @@
 
 /* minimalistic styling for HTML content */
 
+html
+{
+	overflow-y: scroll;
+	margin: 0 auto;
+	max-width: 800px;
+}
+
 body
 {
 	font-family: sans-serif;
@@ -124,7 +131,7 @@ footer
 
 .button a
 {
-	padding: 0.1em 0.25em;
+	padding: 0.25em 0.5em;
 	font-weight: bold;
 	border-radius: 0.25em;
 }
@@ -140,7 +147,7 @@ body > .button
 .button.blue a,
 .button.blue:hover a
 {
-	background-color: #00F;
+	background-color: #02A;
 	border-top:    1px solid #008;
 	border-left:   1px solid #008;
 	border-bottom: 1px solid #88F;
