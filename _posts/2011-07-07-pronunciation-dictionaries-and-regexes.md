@@ -92,7 +92,7 @@ For example, names often end with the pattern `(i|ie|y)` like the name
 
 Using this information, I have constructed a set of replacement patterns that
 can be used in the words. These form letter-based replacements such as
-`&lt;y&gt;` as a placeholder for `(ee|ey|i|ie|y)` in names like `Dav&lt;y&gt;`,
+`<y>;` as a placeholder for `(ee|ey|i|ie|y)` in names like `Dav<y>`,
 and suffix-based replacements such as `+ANNA` as a placeholder for
 `a(na|nna|nnah)` in names like `Jo+ANNA`.
 
