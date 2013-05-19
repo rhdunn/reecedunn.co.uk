@@ -6,6 +6,8 @@ description: Text-to-speech and other software, programming tutorials and inform
 keywords: text to speech, tts, espeak, cainteoir
 categories: ['programming', 'tts']
 feeds: ['rss2']
+meta:
+  - { name: 'msvalidate.01' , content: 'F23062B2AA40A45BCED4F6F057750B73' }
 ---
 
 # Projects
