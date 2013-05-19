@@ -23,7 +23,7 @@ repositories:
       browse: "https://github.com/rhdunn/espeak" }
 developers:
   - { name: "Jonathan Duddington" , account: "http://sourceforge.net/users/jonsd" }
-  - { name: "Google Inc." , homepage: "http://www.google.com" , type: "foaf:Organization" }
+  - { name: "Google Inc." , homepage: "http://www.google.com" , type: "Organization" }
   - { name: "Alan Viverette" , account: "https://plus.google.com/102998416034718374371" }
   - { name: "Reece H. Dunn" , foaf: "/about#me" , maintainer: true }
 categories:
