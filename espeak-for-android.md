@@ -3,7 +3,7 @@ layout: project
 _copyright_: "Copyright (C) 2013 Reece H. Dunn"
 _license_: "CC-BY-SA 3.0"
 description: The eSpeak text-to-speech program for Android™ 4.0 and later.
-long-description: The eSpeak for Android program is a port of the eSpeak Text-to-Speech synthesiser to Android, supporting 75 languages and accents.
+long-description: The eSpeak for Android program is a port of the eSpeak Text-to-Speech synthesiser to Android, supporting 79 languages and accents.
 keywords: text to speech, tts, espeak, android
 title: eSpeak for Android
 parent: /index.html
@@ -34,16 +34,17 @@ feeds: ['rss2']
 
 This port of eSpeak is built on the eyes-free version. It fixes multiple issues found in the eyes-free version:
 
-1.  Speech rate and pitch are correctly handled, so eSpeak on Android sounds like it does on the desktop
-2.  Speech rate is set as words per minute
-3.  Pitch, base pitch and volume are configurable as percentages.
-4.  The eSpeak variant can be selected.
-5.  Languages are correctly selected (e.g. selecting Slovak and Slovenian, or selecting Cantonese Chinese)
-6.  Language names are correctly displayed (e.g. "Scottish English" is displayed as "English (United Kingdom, Scottish Standard English)")
-7.  Accent and special characters are supported
-8.  MIPS-based devices are supported
-9.  Various memory leaks and crashes are fixed
-10. SSML is only processed if the SSML markup is wrapped in a &lt;speak&gt; tag
+1.  Fixes crashes on Android 4.3;
+2.  Speech rate and pitch are correctly handled, so eSpeak on Android sounds like it does on the desktop;
+3.  Speech rate is set as words per minute;
+4.  Pitch, base pitch and volume are configurable as percentages;
+5.  The eSpeak variant can be selected;
+6.  Languages are correctly selected (e.g. selecting Slovak and Slovenian, or selecting Cantonese Chinese);
+7.  Language names are correctly displayed (e.g. "Scottish English" is displayed as "English (United Kingdom, Scottish Standard English)");
+8.  Accent and special characters are supported;
+9.  MIPS-based devices are supported;
+10. Various memory leaks and crashes are fixed;
+11. SSML is only processed if the SSML markup is wrapped in a &lt;speak&gt; tag.
 
 Pronunciation errors should be reported to the [espeak-general@lists.sourceforge.net](mailto:espeak-general@lists.sourceforge.net) mailing list.
 
