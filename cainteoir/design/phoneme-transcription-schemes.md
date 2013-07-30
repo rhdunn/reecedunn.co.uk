@@ -33,7 +33,7 @@ to be derived from Arpabet as well:
 3.  [cepstral-en_US](https://www.cepstral.com/en/tutorials/view/phonemes-us-english) -- Cepstral American English voices
 4.  [cepstral-es_LA](https://www.cepstral.com/en/tutorials/view/phonemes-americas-spanish) -- Cepstral Americas Spanish voices
 5.  [cepstral-fr_CA](https://www.cepstral.com/en/tutorials/view/phonemes-canadian-french) -- Cepstral Canadian French voices
-6.  [cepstral-it](https://www.cepstral.com/en/tutorials/view/phonemes-italian) -- Cepstral Iialian voices
+6.  [cepstral-it](https://www.cepstral.com/en/tutorials/view/phonemes-italian) -- Cepstral Italian voices
 
 # SAMPA
 
