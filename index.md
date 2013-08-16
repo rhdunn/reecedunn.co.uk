@@ -12,9 +12,12 @@ meta:
 
 # Projects
 
-*  [eSpeak for Android](/espeak-for-android)
 *  [Cainteoir Text-to-Speech](/cainteoir)
 *  [Klatt](/klatt)
+
+# Android Applications
+
+*  [eSpeak](/espeak-for-android)
 
 # RDF Schemas
 
