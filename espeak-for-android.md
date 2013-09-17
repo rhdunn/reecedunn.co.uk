@@ -38,13 +38,15 @@ This port of eSpeak is built on the eyes-free version. It fixes multiple issues 
 2.  Speech rate and pitch are correctly handled, so eSpeak on Android sounds like it does on the desktop;
 3.  Speech rate is set as words per minute;
 4.  Pitch, base pitch and volume are configurable as percentages;
-5.  The eSpeak variant can be selected;
-6.  Languages are correctly selected (e.g. selecting Slovak and Slovenian, or selecting Cantonese Chinese);
-7.  Language names are correctly displayed (e.g. "Scottish English" is displayed as "English (United Kingdom, Scottish Standard English)");
-8.  Accent and special characters are supported;
-9.  MIPS-based devices are supported;
-10. Various memory leaks and crashes are fixed;
-11. SSML is only processed if the SSML markup is wrapped in a &lt;speak&gt; tag.
+5.  The eSpeak variant can be selected, including the NVDA voice variants;
+6.  Punctuation level and punctuation characters are configurable;
+7.  Languages are correctly selected (e.g. selecting Slovak and Slovenian, or selecting Cantonese Chinese);
+8.  Language names are correctly displayed (e.g. "Scottish English" is displayed as "English (United Kingdom, Scottish Standard English)");
+9.  Accent and special characters are supported;
+10. MIPS-based devices are supported;
+11. Various memory leaks and crashes are fixed;
+12. SSML is only processed if the SSML markup is wrapped in a &lt;speak&gt; tag;
+13. Support for importing custom-built eSpeak dictionaries.
 
 Pronunciation errors should be reported to the [espeak-general@lists.sourceforge.net](mailto:espeak-general@lists.sourceforge.net) mailing list.
 
