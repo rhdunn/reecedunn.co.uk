@@ -16,6 +16,7 @@ parent: /cainteoir/index.html
 *  [Plain Text](text)
 *  [RSS](rss)
 *  [RTF](rtf)
+*  [SMIL](smil)
 *  [SSML](ssml)
 *  [XHTML](html)
 
@@ -26,6 +27,5 @@ in a future version of Cainteoir Text-to-Speech:
 *  MathML
 *  ODF/text
 *  SKOS+RDF
-*  SMIL
 *  TeX/LaTeX
 *  troff/mandoc

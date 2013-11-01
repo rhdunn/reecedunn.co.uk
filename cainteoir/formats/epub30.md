@@ -11,6 +11,7 @@ parent: /cainteoir/formats/epub.html
 *  [OCF 3.0](ocf30)
 *  [OPF 3.0](opf30)
 *  [OPS 3.0](ops30)
+*  [Media Overlays 3.0](mediaoverlays30)
 
 # Related Specifications
 
