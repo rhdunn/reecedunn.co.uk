@@ -6,6 +6,10 @@ title: Document Processing
 description: How different document formats should be processed.
 keywords: text to speech, tts, cainteoir, design, architecture
 parent: /cainteoir/design/index.html
+references:
+  - {id:    ref1,
+     title: "Document Model",
+     href:  "document-model"}
 ---
 
 This phase is where the different supported documents are processed into a common
