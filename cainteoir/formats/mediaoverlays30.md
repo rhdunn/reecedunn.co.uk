@@ -43,4 +43,15 @@ references:
 4.3.3,Text-to-Speech,,~0.1,~0.1,
 4.4.1,Skippability,,no,no,skipping sidebars and other secondary content
 4.4.2,Escapability,,no,no,continue reading after nested structures like tables and lists
-Appendix B,Example Clock Values,,no,no,audio/@clipBegin and audio/@clipEnd values
+Appendix B,HHH:MM:SS.mmm,,no,no,hours minutes seconds milliseconds
+Appendix B,HHH:MM:SS,,no,no,hours minutes seconds
+Appendix B,MM:SS.mmm,,no,no,minutes seconds milliseconds
+Appendix B,MM:SS,,no,no,minutes seconds
+Appendix B,SS.mmm,,no,no,seconds milliseconds
+Appendix B,SS,,no,no,seconds
+Appendix B,###.##h,,no,no,hours minutes
+Appendix B,##h,,no,no,hours
+Appendix B,##min,,no,no,minutes
+Appendix B,##.###s,,no,no,seconds milliseconds
+Appendix B,##s,,no,no,seconds
+Appendix B,####ms,,no,no,milliseconds
