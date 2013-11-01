@@ -44,7 +44,7 @@ references:
 4.4.1,Skippability,,no,no,skipping sidebars and other secondary content
 4.4.2,Escapability,,no,no,continue reading after nested structures like tables and lists
 Appendix B,HHH:MM:SS.mmm,,no,no,hours minutes seconds milliseconds
-Appendix B,HHH:MM:SS,,no,no,hours minutes seconds
+Appendix B,HHH:MM:SS,,0.12,0.12,hours minutes seconds
 Appendix B,MM:SS.mmm,,0.12,0.12,minutes seconds milliseconds
 Appendix B,MM:SS,,0.12,0.12,minutes seconds
 Appendix B,SS.mmm,,0.12,0.12,seconds milliseconds
