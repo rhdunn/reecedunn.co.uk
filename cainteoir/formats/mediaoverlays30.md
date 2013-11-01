@@ -48,7 +48,7 @@ Appendix B,HHH:MM:SS,,no,no,hours minutes seconds
 Appendix B,MM:SS.mmm,,no,no,minutes seconds milliseconds
 Appendix B,MM:SS,,no,no,minutes seconds
 Appendix B,SS.mmm,,no,no,seconds milliseconds
-Appendix B,SS,,no,no,seconds
+Appendix B,SS,,0.12,0.12,seconds
 Appendix B,###.##h,,no,no,hours minutes
 Appendix B,##h,,no,no,hours
 Appendix B,##min,,no,no,minutes
