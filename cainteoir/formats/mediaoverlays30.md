@@ -11,7 +11,7 @@ references:
   - mediaoverlays30.ref
 ---
 
-2.4.1,smil,,no,no,
+2.4.1,smil,,0.12,0.12,
 2.4.1,smil/@epub:prefix,,no,no,
 2.4.2,head,,no,no,
 2.4.3,metadata,,no,no,
