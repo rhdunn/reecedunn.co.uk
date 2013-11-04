@@ -82,7 +82,7 @@ references:
 4.8.4,object,,no,no,
 4.8.5,param,,no,no,
 4.8.6,video,,no,no,
-4.8.7,audio,,no,no,
+4.8.7,audio,,0.12,0.12,no controls/audio rendered
 4.8.8,source,,no,no,
 4.8.9,track,,no,no,
 4.8.11,canvas,,no,no,
