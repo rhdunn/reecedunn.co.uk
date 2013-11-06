@@ -21,7 +21,7 @@ references:
 2.4.5,seq,,0.12,0.12,
 2.4.5,seq/@epub:type,,no,no,
 2.4.5,seq/@epub:textref,,no,no,
-2.4.6,par,,no,no,
+2.4.6,par,,0.12,0.12,
 2.4.6,par/@epub:type,,no,no,
 2.4.7,text,,no,no,
 2.4.8,audio,,no,no,
