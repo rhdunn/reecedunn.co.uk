@@ -23,7 +23,7 @@ references:
 2.4.5,seq/@epub:textref,,no,no,
 2.4.6,par,,0.12,0.12,
 2.4.6,par/@epub:type,,no,no,
-2.4.7,text,,no,no,
+2.4.7,text,,0.12,0.12,
 2.4.8,audio,,no,no,
 3.2.3,Embedded Audio and Video,,no,no,text element references audio/video
 3.2.4,Text-to-Speech,,~0.1,~0.1,use TTS if no audio is specified
