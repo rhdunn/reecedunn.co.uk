@@ -29,7 +29,7 @@ references:
 3.2.4,Text-to-Speech,,~0.1,~0.1,use TTS if no audio is specified
 3.3,Semantic Inflection,,no,no,see epub:* properties above
 3.4,Associating Style Information,,no,no,CSS class for currently reading content
-3.5.1,item/@media-type='application/smil+xml',,no,no,OPF manifest attribute
+3.5.1,item/@media-type='application/smil+xml',,0.12,0.12,OPF manifest attribute
 3.5.1,item/@media-overlay,,0.12,0.12,OPF manifest attribute
 3.5.2,media:active-class,,~0.6,~0.6,http://www.idpf.org/epub/vocab/overlays/#active-class
 3.5.2,media:duration,,~0.6,~0.6,http://www.idpf.org/epub/vocab/overlays/#duration
