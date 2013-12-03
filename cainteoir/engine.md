@@ -7,6 +7,8 @@ long-description: The Cainteoir Text-to-Speech Engine is a library for reading a
 keywords: text to speech, tts, espeak, cainteoir, ebook, epub, ogg, rdf, metadata
 title: Cainteoir Engine
 parent: /cainteoir/index.html
+alias:
+  - "/cainteoir/cainteoir-engine.html"
 install: "https://launchpad.net/~msclrhd-gmail/+archive/cainteoir"
 issues: "https://github.com/rhdunn/cainteoir-engine/issues"
 license: gpl3+
