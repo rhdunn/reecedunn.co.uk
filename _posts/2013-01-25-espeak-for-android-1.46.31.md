@@ -8,6 +8,8 @@ keywords: text to speech, tts, espeak, android
 category: release
 project: eSpeak for Android
 parent: /espeak-for-android.html
+alias:
+  - "/release/2013/01/25/espeak-for-android-1.46.31.html"
 rdf: ['rdfxml']
 ---
 
