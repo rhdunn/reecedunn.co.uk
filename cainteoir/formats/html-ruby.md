@@ -6,6 +6,8 @@ description: HTML Ruby support.
 keywords: html, ruby
 title: Ruby
 parent: /cainteoir/formats/html.html
+alias:
+  - "/cainteoir/formats/ruby.html"
 type: spec
 references:
   - html-ruby.ref
