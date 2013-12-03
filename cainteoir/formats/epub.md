@@ -6,6 +6,8 @@ description: ePub support.
 keywords: epub, ops, opf, ocf
 title: ePub
 parent: /cainteoir/formats/document.html
+alias:
+  - "/cainteoir/format-epub.html"
 ---
 
 *  [2.0.1](epub201)
