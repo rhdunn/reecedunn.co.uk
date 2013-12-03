@@ -8,6 +8,8 @@ keywords: refactoring, refactor, testing, tests, programming
 author: { name: Reece H. Dunn , foaf: /about#me }
 category: programming
 parent: /index.html
+alias:
+  - "/cainteoir/tts/2012/11/06/refactoring-part-1.html"
 ---
 
 Refactoring code is where the code is modified such that the behaviour of the

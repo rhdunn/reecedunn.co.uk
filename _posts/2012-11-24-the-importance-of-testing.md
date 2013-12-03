@@ -8,6 +8,8 @@ keywords: testing, tests, dogfooding, unit test, integration test, fuzz test, pr
 author: { name: Reece H. Dunn , foaf: /about#me }
 category: programming
 parent: /index.html
+alias:
+  - "/cainteoir/tts/2012/11/24/the-importance-of-testing.html"
 ---
 
 Having a good test infrastructure in place is very important to ensuring that
