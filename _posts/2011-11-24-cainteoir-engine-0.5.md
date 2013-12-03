@@ -8,6 +8,8 @@ keywords: text to speech, tts, espeak, cainteoir, ebook, epub, ogg, rdf, metadat
 category: release
 project: Cainteoir Engine
 parent: /cainteoir/engine.html
+alias:
+  - "/cainteoir/release/2011/11/24/cainteoir-engine-0.5.html"
 rdf: ['rdfxml']
 ---
 
