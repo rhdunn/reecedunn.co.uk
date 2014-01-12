@@ -7,7 +7,7 @@ keywords: epub, ops, opf, ocf
 title: ePub
 parent: /cainteoir/formats/document.html
 alias:
-  - "/cainteoir/format-epub.html"
+  - "/cainteoir/format-epub"
 ---
 
 *  [2.0.1](epub201)

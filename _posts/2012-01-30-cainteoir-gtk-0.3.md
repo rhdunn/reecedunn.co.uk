@@ -9,7 +9,7 @@ category: release
 project: Cainteoir Text-to-Speech
 parent: /cainteoir/index.html
 alias:
-  - "/cainteoir/release/2012/01/30/cainteoir-gtk-0.3.html"
+  - "/cainteoir/release/2012/01/30/cainteoir-gtk-0.3"
 rdf: ['rdfxml']
 ---
 

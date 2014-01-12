@@ -7,7 +7,7 @@ keywords: html, ruby
 title: Ruby
 parent: /cainteoir/formats/html.html
 alias:
-  - "/cainteoir/formats/ruby.html"
+  - "/cainteoir/formats/ruby"
 type: spec
 references:
   - html-ruby.ref

@@ -8,7 +8,7 @@ keywords: text to speech, tts, espeak, cainteoir, ebook, epub, ogg
 title: Cainteoir Text-to-Speech
 parent: /index.html
 alias:
-  - "/cainteoir/download.html"
+  - "/cainteoir/download"
 install: "https://launchpad.net/~msclrhd-gmail/+archive/cainteoir"
 issues: "https://github.com/rhdunn/cainteoir-gtk/issues"
 license: gpl3+

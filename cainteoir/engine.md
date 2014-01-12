@@ -8,7 +8,7 @@ keywords: text to speech, tts, espeak, cainteoir, ebook, epub, ogg, rdf, metadat
 title: Cainteoir Engine
 parent: /cainteoir/index.html
 alias:
-  - "/cainteoir/cainteoir-engine.html"
+  - "/cainteoir/cainteoir-engine"
 install: "https://launchpad.net/~msclrhd-gmail/+archive/cainteoir"
 issues: "https://github.com/rhdunn/cainteoir-engine/issues"
 license: gpl3+

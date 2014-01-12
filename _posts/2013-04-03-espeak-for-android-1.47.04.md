@@ -10,7 +10,7 @@ project: eSpeak for Android
 parent: /espeak-for-android.html
 rdf: ['rdfxml']
 alias:
-  - "/release/2013/04/03/espeak-for-android-1.47.04.html"
+  - "/release/2013/04/03/espeak-for-android-1.47.04"
 ---
 
 What's New:

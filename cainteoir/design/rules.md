@@ -7,7 +7,7 @@ description: Design document for the rule engine in the Cainteoir Text-to-Speech
 keywords: text to speech, tts, cainteoir, rules, letter to phoneme, pronunciation dictionary, grapheme to phoneme, grapheme, phoneme
 parent: /cainteoir/design/index.html
 alias:
-  - "/cainteoir/rules.html"
+  - "/cainteoir/rules"
 references:
   - {id:        ref1,
      href:      "http://www.speech.cs.cmu.edu/cgi-bin/cmudict",

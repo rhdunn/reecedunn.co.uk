@@ -9,7 +9,7 @@ author: { name: Reece H. Dunn , foaf: /about#me }
 category: tts
 parent: /index.html
 alias:
-  - "/cainteoir/tts/2011/07/07/pronunciation-dictionaries-and-regexes.html"
+  - "/cainteoir/tts/2011/07/07/pronunciation-dictionaries-and-regexes"
 ---
 
 Over the past few months I have been compiling a _pronunciation dictionary_ for

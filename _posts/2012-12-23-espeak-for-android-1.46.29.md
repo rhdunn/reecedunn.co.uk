@@ -9,7 +9,7 @@ category: release
 project: eSpeak for Android
 parent: /espeak-for-android.html
 alias:
-  - "/release/2012/12/23/espeak-for-android-1.46.29.html"
+  - "/release/2012/12/23/espeak-for-android-1.46.29"
 rdf: ['rdfxml']
 ---
 

@@ -7,7 +7,7 @@ keywords: opf
 title: OPF
 parent: /cainteoir/formats/document.html
 alias:
-  - "/cainteoir/format-opf.html"
+  - "/cainteoir/format-opf"
 ---
 
 *  [2.0.1](opf201)

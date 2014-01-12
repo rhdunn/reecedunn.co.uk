@@ -9,7 +9,7 @@ category: release
 project: Cainteoir Engine
 parent: /cainteoir/engine.html
 alias:
-  - "/cainteoir/release/2011/05/29/cainteoir-engine-0.2.html"
+  - "/cainteoir/release/2011/05/29/cainteoir-engine-0.2"
 rdf: ['rdfxml']
 ---
 
