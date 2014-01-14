@@ -28,3 +28,6 @@ Cainteoir Text-to-Speech.
 *  [IANA Language Subtag Registry Schema](/schema/2013/iana) --- An RDF model for the
    [IANA Language Subtag Registry](http://www.iana.org/assignments/language-subtag-registry)
    data.
+
+*  [Document References](/schema/2014/ref) --- An RDF model for representing tables/lists of
+   references in a document.
