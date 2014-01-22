@@ -13,10 +13,24 @@ classes:
   - {'label':      'Listing',
      'added':      '2014-01-14',
      'comment':    'A table or list of items.'}
+  - {'label':      'Manifest',
+     'added':      '2014-01-22',
+     'comment':    'A multi-file archive-based document.',
+     'subClassOf': '#Listing'}
+  - {'label':      'ManifestItem',
+     'added':      '2014-01-22',
+     'comment':    'A file in a multi-file archive-based document.',
+     'subClassOf': '#Entry'}
 properties:
   - {'label':         'entries',
      'added':         '2014-01-14',
-     'comment':       'An RDF list of ref:Entry objects that constitute the listing contents.'}
+     'comment':       'An RDF list of ref:Entry objects that constitute the listing contents.',
+     'domain':        '#Listing'}
+  - {'label':         'hasManifestItem',
+     'added':         '2014-01-22',
+     'comment':       'The URI of a ref:ManifestItem that is a part of this multi-file archive-based document.',
+     'domain':        '#Manifest',
+     'range':         '#ManifestItem'}
   - {'label':         'level',
      'added':         '2014-01-14',
      'comment':       'The depth of the entry.',
@@ -26,15 +40,38 @@ properties:
      'added':         '2014-01-14',
      'comment':       'A table or list of items associated with the document.',
      'range':         '#Listing'}
+  - {'label':         'media-overlay',
+     'added':         '2014-01-22',
+     'comment':       'A SMIL document associated with the target document.',
+     'domain':        '#Entry',
+     'range':         'xsd:string'}
+  - {'label':         'mimetype',
+     'added':         '2014-01-22',
+     'comment':       'The MIME type associated with the target file.',
+     'domain':        '#Entry',
+     'range':         'xsd:string'}
   - {'label':         'page',
      'added':         '2014-01-14',
      'comment':       'The page number of the entry.',
      'domain':        '#Entry',
      'range':         'xsd:integer'}
+  - {'label':         'property',
+     'added':         '2014-01-22',
+     'comment':       'A URI describing the content of the target document.',
+     'domain':        '#Entry'}
+  - {'label':         'spine',
+     'added':         '2014-01-22',
+     'comment':       'An RDF list of ref:ManifestItem objects that form the contents of the document.',
+     'domain':        '#Manifest'}
   - {'label':         'target',
      'added':         '2014-01-14',
      'comment':       'The URI of the location this entry navigates to.',
      'domain':        '#Entry'}
+  - {'label':         'toc',
+     'added':         '2014-01-22',
+     'comment':       'The URI of a ManifestItem containing the table of contents for the document.',
+     'domain':        '#Manifest',
+     'range':         '#ManifestItem'}
   - {'label':         'type',
      'added':         '2014-01-14',
      'comment':       'A URI to the type of the listing or entry.'}
@@ -105,5 +142,5 @@ For example:
 	_:guide1 a ref:Entry .
 		ref:level 1 ;
 		ref:target <example.html#toc> ;
-		epub:type epv:toc ;
+		ref:type epv:toc ;
 		dc:title "Table of Contents" .
