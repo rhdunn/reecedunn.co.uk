@@ -68,7 +68,7 @@ references:
 4.3.3,xmp-record,,0.4,0.11,http://www.idpf.org/epub/vocab/package/#xmp-record
 4.3.4,cover-image,,na,na,Images are not supported.
 4.3.4,mathml,,na,na,MathML content is automatically detected.
-4.3.4,nav,,no,no,
+4.3.4,nav,,0.12,0.12,
 4.3.4,remote-resources,,na,na,Only the document is processed.
 4.3.4,scripted,,na,na,JavaScript/scripting is not supported.
 4.3.4,svg,,na,na,SVG content is automatically detected.

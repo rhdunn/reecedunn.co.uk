@@ -12,17 +12,17 @@ references:
 ---
 
 2.1,XHTML Content Documents,html,~0.1,~0.1,XHTML 5.0
-2.1.3.1.2,epub:type,,no,no,
+2.1.3.1.2,epub:type,,~0.12,no,Only on nav documents
 2.1.3.2.2,ssml:ph,,no,no,
 2.1.3.2.3,ssml:alphabet,,no,no,
 2.1.3.3.2.1,epub:switch,,no,no,
 2.1.3.3.2.2,epub:case,,no,no,
 2.1.3.3.2.3,epub:default,,no,no,
 2.1.3.4,epub:trigger,,no,no,
-2.2.4.2,nav/@epub:type,,no,no,
-2.2.4.2.1,nav/@epub:type="toc",,no,no,NCX replacement
-2.2.4.2.2,nav/@epub:type="page-list",,no,no,
-2.2.4.2.3,nav/@epub:type="landmarks",,no,no,
+2.2.4.2,nav/@epub:type,,0.12,0.12,
+2.2.4.2.1,nav/@epub:type="toc",,0.12,0.12,
+2.2.4.2.2,nav/@epub:type="page-list",,0.12,no,
+2.2.4.2.3,nav/@epub:type="landmarks",,0.12,no,
 2.2.4.3,@hidden,,no,no,
 2.3,SVG Content Documents,,no,no,
 2.4,Scripted Content Documents,,no,no,
