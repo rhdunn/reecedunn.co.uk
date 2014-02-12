@@ -28,7 +28,9 @@ categories:
   - { name: "Speech Synthesis" , url: "http://dbpedia.org/resource/Category:Speech_synthesis" }
 applications:
   - { name: cainteoir , description: "The command-line interface to the Cainteoir Text-to-Speech program." }
-  - { name: metadata  , description: "A metadata extraction utility returning RDF metadata for supported document formats." }
+  - { name: metadata , description: "A metadata extraction utility returning RDF metadata for supported document formats." }
+  - { name: dictionary , description: "Manage text-to-speech pronunciation dictionaries." }
+  - { name: phoneme-converter , description: "Convert between different phonetic transcriptions such as IPA, ASCII-IPA, X-SAMPA and CXS." }
 rdf: ['rdfxml']
 feeds: ['rss2']
 ---
