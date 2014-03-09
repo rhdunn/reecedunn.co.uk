@@ -99,7 +99,7 @@ transcription schemes based on IPA:
 2.  [Kirshenbaum](http://en.wikipedia.org/wiki/Kirshenbaum) -- ASCII transcription of IPA
 3.  [X-SAMPA](http://en.wikipedia.org/wiki/X-SAMPA) -- alternate ASCII transcription of IPA
 4.  [CXS](http://en.wikipedia.org/wiki/Conlang_XSAMPA) -- extension to X-SAMPA for constructed languages
-5.  [Z-SAMPA](http://www.kneequickie.com/kq/Z-SAMPA) -- another extension to X-SAMPA for constructed languages
+5.  [Z-SAMPA](http://web.archive.org/web/20070310121209/www.penguindeskjob.com/wiki/index.php?title=Z-SAMPA) -- another extension to X-SAMPA for constructed languages
 
 NOTE: The IPA symbols are used differently by different transcribers depending
 on the language and phonetic qualities the transcriber wants to record.
