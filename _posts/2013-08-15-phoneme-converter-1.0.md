@@ -4,7 +4,7 @@ _copyright_: "Copyright (C) 2013 Reece H. Dunn"
 _license_: "CC-BY-SA 3.0"
 title: 1.0
 description: Phoneme Converter 1.0 release notes
-keywords: phoneme, phonemes, converter, android, mobile, ipa, x-sampa, cxs, askii-ipa, kirshenbaum
+keywords: phoneme, phonemes, converter, android, mobile, ipa, x-sampa, cxs, ascii-ipa, kirshenbaum
 category: release
 project: Phoneme Converter
 parent: /phoneme-converter.html

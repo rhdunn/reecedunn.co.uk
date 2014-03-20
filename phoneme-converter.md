@@ -21,6 +21,8 @@ Alphabet (IPA) transcriptions on your mobile device, or provide an ASCII
 transcription of IPA phonemes when composing an email message.
 
 *  Dynamically convert phonemes as you type.
+*  Full IPA 2005 support, including tones and intonation.
+*  Select transcription brackets to use.
 *  Send the translated phonemes to the Messaging app (or any other app that can receive text).
 *  Copy the translated phonemes to the system clipboard.
 
@@ -50,6 +52,11 @@ transcription of IPA phonemes when composing an email message.
 <td>✔</td>
 </tr>
 <tr>
+<td markdown="1">[SAMPA for English](http://www.phon.ucl.ac.uk/home/sampa/english.htm)</td>
+<td>✔</td>
+<td>✔</td>
+</tr>
+<tr>
 <td markdown="1">[X-SAMPA](http://en.wikipedia.org/wiki/X-SAMPA)</td>
 <td></td>
 <td>✔</td>
@@ -63,10 +70,5 @@ transcription of IPA phonemes when composing an email message.
 <td>Import/Export Phonemes</td>
 <td></td>
 <td>✔</td>
-</tr>
-<tr>
-<td>Conversion Limit (characters)</td>
-<td>10</td>
-<td>Unlimited</td>
 </tr>
 </table>
