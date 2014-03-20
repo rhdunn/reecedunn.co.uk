@@ -1,9 +1,9 @@
 ---
 layout: project
-_copyright_: "Copyright (C) 2013 Reece H. Dunn"
+_copyright_: "Copyright (C) 2013-2014 Reece H. Dunn"
 _license_: "CC-BY-SA 3.0"
 description: Convert phonemes between different phonetic transcription schemes.
-keywords: phoneme, phonemes, converter, android, mobile, ipa, x-sampa, cxs, askii-ipa, kirshenbaum
+keywords: phoneme, phonemes, converter, android, mobile, ipa, x-sampa, cxs, ascii-ipa, kirshenbaum, sampa
 title: Phoneme Converter
 parent: /index.html
 os:
@@ -50,7 +50,7 @@ transcription of IPA phonemes when composing an email message.
 <td>✔</td>
 </tr>
 <tr>
-<td marhdown="1">[X-SAMPA](http://en.wikipedia.org/wiki/X-SAMPA)</td>
+<td markdown="1">[X-SAMPA](http://en.wikipedia.org/wiki/X-SAMPA)</td>
 <td></td>
 <td>✔</td>
 </tr>
