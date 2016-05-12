@@ -37,7 +37,8 @@ With Cainteoir Text-to-Speech you can ...
 
 *  Listen to documents in many different formats, including _ePub_ and _HTML_.
 
-   {: .more} [Read More](formats/document)
+   [Read More](formats/document)
+   {: .more}
 
 *  Record the documents to _WAV_ or _Ogg/Vorbis_ audio files.
 
